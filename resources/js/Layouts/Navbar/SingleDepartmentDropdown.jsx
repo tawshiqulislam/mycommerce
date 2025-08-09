@@ -6,12 +6,6 @@ import { ChevronRightIcon } from "@heroicons/react/24/solid";
 function SingleDepartmentDropdown({ department }) {
     return (
         <Popover className="relative">
-            <PopoverButton className="focus:ring-0 focus:border-none focus:outline-none">
-                <div className="flex items-center">
-                    <span>{department.name}</span>
-                    <ChevronRightIcon className="h-4 w-4 ml-1" />
-                </div>
-            </PopoverButton>
             <PopoverPanel
                 transition
                 className="absolute z-20 transition duration-200 ease-in-out w-[150%] md:w-[400%] lg:w-[800%]"

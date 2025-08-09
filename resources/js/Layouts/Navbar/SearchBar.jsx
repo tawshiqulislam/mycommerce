@@ -23,7 +23,7 @@ export default function SearchBar() {
                 <input
                     id="search-main"
                     type="text"
-                    placeholder="Find what you're looking for (e.g., Rice, Onion, Banana)"
+                    placeholder="Find everything for your little one (toys, clothes, care & more...)"
                     name="q"
                     onChange={(e) => setData("q", e.target.value)}
                     className="block w-full border-none focus:border-none ring-0 focus:ring-none focus:ring-0 text-sm"

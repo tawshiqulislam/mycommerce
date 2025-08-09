@@ -38,7 +38,7 @@ export default function FullMenu({ navigation, departments }) {
                         </div>
                     </div>
                     <Disclosure.Panel className="absolute mt-1 left-0 bg-white shadow-lg z-20 rounded-lg p-4">
-                        <div className="flex flex-col items-start space-y-4 w-max">
+                        <div className="flex flex-col items-start w-max">
                             <div className="grid grid-cols-2 gap-2">
                                 {departments.map((item, index) => (
                                     <Link
