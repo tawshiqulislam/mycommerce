@@ -1,0 +1,610 @@
+[
+    {
+        "name": "Milk Vita Pasteurized Milk",
+        "entry": "Product of Bangladesh",
+        "price": "50",
+        "old_price": "50",
+        "description": "Milk Vita Pasteurized Milk is fresh, high-quality cow's milk that has been pasteurized to eliminate harmful bacteria, ensuring it is safe to consume. It has a rich, creamy taste and is packed with essential nutrients like calcium, protein, and vitamins, making it a perfect addition to your daily diet.\r Ingredients: Fresh Cow's Milk, Preservatives (if applicable, based on local regulations).\r Making Process:\rMilk Collection: Fresh milk is sourced from healthy cows.\rPasteurization: The milk is heated to a specific temperature to kill any harmful bacteria, ensuring safety while preserving the milk's nutrients.\rCooling and Packaging: The milk is rapidly cooled and then packaged in sterilized containers to maintain its freshness.\r Uses: Drinking Tea/Coffee, Cooking & Baking,  Smoothies, A great base for making smoothies or milkshakes.\r Benefits:\rRich in Calcium: Supports bone and teeth health.\rHigh in Protein: Essential for muscle growth and repair.\rVitamins A & D: Help maintain good vision and immune system function.\rFresh & Natural: No artificial additives, providing you with pure, wholesome milk.\nMilk Vita Pasteurized Milk is fresh, high-quality cow's milk that has been pasteurized to eliminate harmful bacteria, ensuring it is safe to consume. It has a rich, creamy taste and is packed with essential nutrients like calcium, protein, and vitamins, making it a perfect addition to your daily diet.\r\n \nIngredients: Fresh Cow's Milk, Preservatives (if applicable, based on local regulations).\r\n \nMaking Process:\r\nMilk Collection: Fresh milk is sourced from healthy cows.\r\nPasteurization: The milk is heated to a specific temperature to kill any harmful bacteria, ensuring safety while preserving the milk's nutrients.\r\nCooling and Packaging: The milk is rapidly cooled and then packaged in sterilized containers to maintain its freshness.\r\n \nUses: Drinking Tea/Coffee, Cooking & Baking,  Smoothies, A great base for making smoothies or milkshakes.\r\n \nBenefits:\r\nRich in Calcium: Supports bone and teeth health.\r\nHigh in Protein: Essential for muscle growth and repair.\r\nVitamins A & D: Help maintain good vision and immune system function.\r\nFresh & Natural: No artificial additives, providing you with pure, wholesome milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/milk-vita-pasteurized-milk-500-ml.webp",
+                "img": "/products/img/liquid-uht-milk/milk-vita-pasteurized-milk-500-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Pasteurized Liquid Milk",
+        "entry": "Product of Bangladesh",
+        "price": "105",
+        "old_price": "105",
+        "description": "Milk is the best source of calcium. And it keeps skin soft and glowing. And in order to improve proper growth, you can have Aarong Dairy Liquid Milk. Brand: Aarong Dairy. Milk Type: Liquid. Net weight 1 Ltr.\nMilk is the best source of calcium. And it keeps skin soft and glowing. And in order to improve proper growth, you can have Aarong Dairy Liquid Milk. Brand: Aarong Dairy. Milk Type: Liquid. Net weight 1 Ltr.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-pasteurized-liquid-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-pasteurized-liquid-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "UHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh cream milk.\nUHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh cream milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-uht-milk-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-uht-milk-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "130",
+        "old_price": "130",
+        "description": "UHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh full cream milk.\nUHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh full cream milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-uht-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/pran-uht-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "60",
+        "old_price": "60",
+        "description": "UHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh full cream milk.\nUHT Milk is one of the most popular milk for people who want to maintain a balanced and healthy life. Pran UHT Milk gives us a proper combination of nutrition and good taste. It is enriched with many essential nutrients like potassium, zinc, carbohydrates, protein, etc. If we want to have a long healthy life, we can certainly take this fresh full cream milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-4",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-uht-milk-500-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-uht-milk-500-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Pasteurized Full Cream Liquid Milk",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Pran Pasteurized Full Cream Liquid Milk Pasteurized milk is raw milk. Milk contains a wide array of nutrients, including vitamins, minerals, protein, healthy fats and antioxidants. Keep in mind that its nutritional content can vary depending on many factors. Milk contains a variety of nutrients that benefit bone health, such as calcium, vitamin D, phosphorus and magnesium. Studies suggest that consuming milk and dairy products may prevent osteoporosis and reduce the risk of fractures.\nPran Pasteurized Full Cream Liquid Milk Pasteurized milk is raw milk. Milk contains a wide array of nutrients, including vitamins, minerals, protein, healthy fats and antioxidants. Keep in mind that its nutritional content can vary depending on many factors. Milk contains a variety of nutrients that benefit bone health, such as calcium, vitamin D, phosphorus and magnesium. Studies suggest that consuming milk and dairy products may prevent osteoporosis and reduce the risk of fractures.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-5",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-pasteurized-full-cream-liquid-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/pran-pasteurized-full-cream-liquid-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Milkman Slim Low Fat UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "150",
+        "old_price": "150",
+        "description": "",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-6",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/milkman-slim-low-fat-uht-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/milkman-slim-low-fat-uht-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Laban",
+        "entry": "Product of Bangladesh",
+        "price": "75",
+        "old_price": "75",
+        "description": "Aarong Dairy’s milk-based beverages are tasty and nutritious. It adds a whole lot of goodness to every occasion.  Share and Enjoy!  CATEGORIES: LABAN, YOGHURT DRINKS.\nAarong Dairy’s milk-based beverages are tasty and nutritious. It adds a whole lot of goodness to every occasion.  Share and Enjoy!  CATEGORIES: LABAN, YOGHURT DRINKS.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-7",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-laban-500-ml.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-laban-500-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Chocolate Flavored Milk (Pouch)",
+        "entry": "Product of Bangladesh",
+        "price": "25",
+        "old_price": "25",
+        "description": "Pran Chocolate Flavored Milk (Pouch) 200ml is a creamy and delicious dairy drink infused with rich chocolate flavor, offering a delightful treat for chocolate lovers of all ages. Made from high-quality milk, it combines nutrition with indulgence, making it perfect for a quick energy boost or a satisfying snack. Its portable pouch design is convenient for on-the-go enjoyment.\rIngredients: Fresh Milk, Sugar, Cocoa Powder, Natural and Artificial, Flavors, Stabilizers.\rProduct Type: Drinking Milk (Chocolate Flavored).\nPran Chocolate Flavored Milk (Pouch) 200ml is a creamy and delicious dairy drink infused with rich chocolate flavor, offering a delightful treat for chocolate lovers of all ages. Made from high-quality milk, it combines nutrition with indulgence, making it perfect for a quick energy boost or a satisfying snack. Its portable pouch design is convenient for on-the-go enjoyment.\r\nIngredients: Fresh Milk, Sugar, Cocoa Powder, Natural and Artificial, Flavors, Stabilizers.\r\nProduct Type: Drinking Milk (Chocolate Flavored).",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-8",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-chocolate-flavored-milk-pouch-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-chocolate-flavored-milk-pouch-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Mango Flavored Milk (Pouch)",
+        "entry": "Product of Bangladesh",
+        "price": "25",
+        "old_price": "25",
+        "description": "Pran Mango Flavored Milk (Pouch) 200ml is a refreshing and creamy beverage that blends high-quality milk with the sweet, tropical flavor of ripe mangoes. This delicious drink is perfect for mango lovers who want a nutritious and satisfying treat. The convenient pouch packaging makes it an ideal choice for enjoying on the go.\r Ingredients: Fresh Milk, Sugar, Mango Flavoring (Natural and Artificial),\rStabilizers.\nPran Mango Flavored Milk (Pouch) 200ml is a refreshing and creamy beverage that blends high-quality milk with the sweet, tropical flavor of ripe mangoes. This delicious drink is perfect for mango lovers who want a nutritious and satisfying treat. The convenient pouch packaging makes it an ideal choice for enjoying on the go.\r\n \nIngredients: Fresh Milk, Sugar, Mango Flavoring (Natural and Artificial),\r\nStabilizers.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-9",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-mango-flavored-milk-pouch-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-mango-flavored-milk-pouch-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Full Cream Milk Powder",
+        "entry": "Product of Bangladesh",
+        "price": "425",
+        "old_price": "425",
+        "description": "Aarong Dairy Full Cream Milk powder is made from selected fresh cow’s milk of the highest quality with state-of-the-art European technology. It is full of Calcium, Protein, and all the essential Vitamins & Minerals to give your family a daily base of good taste & nutrition.\r\nAarong Dairy Full Cream Milk powder is made from selected fresh cow’s milk of the highest quality with state-of-the-art European technology. It is full of Calcium, Protein, and all the essential Vitamins & Minerals to give your family a daily base of good taste & nutrition.\r\n",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-10",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 gm"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-full-cream-milk-powder-500-gm.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-full-cream-milk-powder-500-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Matha",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "Aarong Dairy’s milk-based beverages are tasty and nutritious. It adds a whole lot of goodness to every occasion.  Share and Enjoy!\nAarong Dairy’s milk-based beverages are tasty and nutritious. It adds a whole lot of goodness to every occasion.  Share and Enjoy!",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-11",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-matha-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-matha-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Cowhead Pure UHT Milk",
+        "entry": "Product of Australia",
+        "price": "399",
+        "old_price": "399",
+        "description": "This product is manufactured/packaged in Australia and its raw materials are collected from New Zealand.\r Natural and fresh cow milk. Full cream milk.  Minimum 32% fat  UHT processed to maintain long life and retain the qualities and flavor of milk. Nutrition: Energy, protein, trans and saturated fats, sodium, calcium, dietary fiber, cholesterol, and carbohydrate.\nThis product is manufactured/packaged in Australia and its raw materials are collected from New Zealand.\r\n \nNatural and fresh cow milk. Full cream milk.  Minimum 32% fat  UHT processed to maintain long life and retain the qualities and flavor of milk. Nutrition: Energy, protein, trans and saturated fats, sodium, calcium, dietary fiber, cholesterol, and carbohydrate.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-12",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/cowhead-pure-uht-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/cowhead-pure-uht-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Chocolate Milk Drink",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Pran Chocolate Flavoured Milk is a delicious and nutritious drink for the whole family. It is made with real milk and contains 200 ml of chocolate flavour.\nPran Chocolate Flavoured Milk is a delicious and nutritious drink for the whole family. It is made with real milk and contains 200 ml of chocolate flavour.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-13",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-chocolate-milk-drink-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-chocolate-milk-drink-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Marks Active School Strawberry Ice Cream Flavour Milk Shake",
+        "entry": "Product of Bangladesh",
+        "price": "40",
+        "old_price": "40",
+        "description": "Introducing Marks Active School Strawberry Ice Cream Flavour Milk Shake, a delightful 200 ml serving of pure enjoyment that brings the essence of strawberry ice cream to your beverage experience. This product offers a perfect combination of flavor and refreshment, making it a delightful choice for both young and adult taste buds.    Discover the playful taste of Marks Active School Strawberry Ice Cream Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the nostalgic sweetness of strawberry ice cream. Whether you're looking for a tasty treat to satisfy your cravings, a post-school refreshment, or a delightful beverage, this milkshake offers a convenient and flavorful solution.\nIntroducing Marks Active School Strawberry Ice Cream Flavour Milk Shake, a delightful 200 ml serving of pure enjoyment that brings the essence of strawberry ice cream to your beverage experience. This product offers a perfect combination of flavor and refreshment, making it a delightful choice for both young and adult taste buds.    Discover the playful taste of Marks Active School Strawberry Ice Cream Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the nostalgic sweetness of strawberry ice cream. Whether you're looking for a tasty treat to satisfy your cravings, a post-school refreshment, or a delightful beverage, this milkshake offers a convenient and flavorful solution.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-14",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/marks-active-school-strawberry-ice-cream-flavour-milk-shake-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/marks-active-school-strawberry-ice-cream-flavour-milk-shake-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Marks Active School Belgian Chocolate Flavour Milk Shake",
+        "entry": "Product of Bangladesh",
+        "price": "40",
+        "old_price": "40",
+        "description": "Introducing Marks Active School Belgian Chocolate Flavour Milk Shake, a delectable 200 ml serving of pure delight that brings the rich and indulgent essence of Belgian chocolate to your beverage experience. This product offers a perfect combination of flavor and nourishment, making it a delightful choice for both young and adult chocolate enthusiasts.\r Discover the exquisite taste of Marks Active School Belgian Chocolate Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the luxurious essence of Belgian chocolate. Whether you're seeking a delightful treat for a quick energy boost, a post-school snack, or a satisfying beverage, this milkshake offers a convenient and flavorful solution.\nIntroducing Marks Active School Belgian Chocolate Flavour Milk Shake, a delectable 200 ml serving of pure delight that brings the rich and indulgent essence of Belgian chocolate to your beverage experience. This product offers a perfect combination of flavor and nourishment, making it a delightful choice for both young and adult chocolate enthusiasts.\r\n \nDiscover the exquisite taste of Marks Active School Belgian Chocolate Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the luxurious essence of Belgian chocolate. Whether you're seeking a delightful treat for a quick energy boost, a post-school snack, or a satisfying beverage, this milkshake offers a convenient and flavorful solution.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-15",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/marks-active-school-belgian-chocolate-flavour-milk-shake-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/marks-active-school-belgian-chocolate-flavour-milk-shake-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Marks Active School Cookie & Cream Flavour Milk Shake",
+        "entry": "Product of Bangladesh",
+        "price": "40",
+        "old_price": "40",
+        "description": "Introducing Marks Active School Cookie & Cream Flavour Milk Shake, a delightful 200 ml serving of pure delight that brings the essence of cookie and cream goodness to your beverage experience. This product offers a perfect combination of flavor and refreshment, making it a delightful choice for both young and adult taste buds.    Discover the playful taste of Marks Active School Cookie & Cream Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the delightful sweetness of cookie and cream. Whether you're looking for a tasty treat to satisfy your cravings, a post-school refreshment, or a delightful beverage, this milkshake offers a convenient and flavorful solution.\nIntroducing Marks Active School Cookie & Cream Flavour Milk Shake, a delightful 200 ml serving of pure delight that brings the essence of cookie and cream goodness to your beverage experience. This product offers a perfect combination of flavor and refreshment, making it a delightful choice for both young and adult taste buds.    Discover the playful taste of Marks Active School Cookie & Cream Flavour Milk Shake. Each 200 ml serving is a harmonious blend of creamy milk and the delightful sweetness of cookie and cream. Whether you're looking for a tasty treat to satisfy your cravings, a post-school refreshment, or a delightful beverage, this milkshake offers a convenient and flavorful solution.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-16",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/marks-active-school-cookie-cream-flavour-milk-shake-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/marks-active-school-cookie-cream-flavour-milk-shake-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Badam Milk Drink",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-17",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-badam-milk-drink-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-badam-milk-drink-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Danish Ayran Pasteurized Full Cream Liquid Milk",
+        "entry": "Product of Bangladesh",
+        "price": "255",
+        "old_price": "255",
+        "description": "Milk is the best source for calcium. And it keeps skin soft and glowing. And in order to improve proper growth.\nMilk is the best source for calcium. And it keeps skin soft and glowing. And in order to improve proper growth.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-18",
+        "variants": [
+            {
+                "color": {
+                    "name": "2 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/danish-ayran-pasteurized-full-cream-liquid-milk-2-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/danish-ayran-pasteurized-full-cream-liquid-milk-2-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Danish Ayran Pasteurized Full Cream Liquid Milk",
+        "entry": "Product of Bangladesh",
+        "price": "140",
+        "old_price": "140",
+        "description": "Milk is the best source for calcium. And it keeps skin soft and glowing. And in order to improve proper growth,\nMilk is the best source for calcium. And it keeps skin soft and glowing. And in order to improve proper growth,",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-19",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/danish-ayran-pasteurized-full-cream-liquid-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/danish-ayran-pasteurized-full-cream-liquid-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Arla UHT Milk Low Fat",
+        "entry": "Product of Bangladesh",
+        "price": "320",
+        "old_price": "320",
+        "description": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r Love milk, but are concerned about milk fat? Arla UHT Low Fat Milk naturally contains a higher amount of Calcium, Protein, and Potassium along with Vitamins A, B & D, and minerals. Below-lower fat risks at best only for you.\rLow Fat Milk with 1.5% fat content, 92 kcal energy per serving.\nThis product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r\n \nLove milk, but are concerned about milk fat? Arla UHT Low Fat Milk naturally contains a higher amount of Calcium, Protein, and Potassium along with Vitamins A, B & D, and minerals. Below-lower fat risks at best only for you.\r\nLow Fat Milk with 1.5% fat content, 92 kcal energy per serving.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-20",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/arla-uht-milk-low-fat-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/arla-uht-milk-low-fat-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Arla UHT Milk Full Cream",
+        "entry": "Product of Bangladesh",
+        "price": "320",
+        "old_price": "320",
+        "description": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r Want to feel the goodness of milk?\rFlavorsome and retains all essential nutrients and minerals such as Calcium, Protein, Potassium, and vitamins A, B & D. Arla UHT Full Cream Milk matches good health and taste.\rWhole Milk with 3.5% fat content, 126 kcal energy per serving.\nThis product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r\n \nWant to feel the goodness of milk?\r\nFlavorsome and retains all essential nutrients and minerals such as Calcium, Protein, Potassium, and vitamins A, B & D. Arla UHT Full Cream Milk matches good health and taste.\r\nWhole Milk with 3.5% fat content, 126 kcal energy per serving.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-21",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/arla-uht-milk-full-cream-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/arla-uht-milk-full-cream-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Farm Fresh Pasteurized Full Cream Milk",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Farm Fresh milk provides discerning consumers with the wholesome goodness of imported Australian 100% farm-fresh milk.\nFarm Fresh milk provides discerning consumers with the wholesome goodness of imported Australian 100% farm-fresh milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-22",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/farm-fresh-pasteurized-full-cream-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/farm-fresh-pasteurized-full-cream-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Farm Fresh UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "60",
+        "old_price": "60",
+        "description": "Pasteurized milk is raw milk that has been heated to a specified temperature and time to kill pathogens that may be found in the raw milk farm fresh uht milk is made with pure milk it has no added preservatives it is BSTI-approved.\nPasteurized milk is raw milk that has been heated to a specified temperature and time to kill pathogens that may be found in the raw milk farm fresh uht milk is made with pure milk it has no added preservatives it is BSTI-approved.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-23",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/farm-fresh-uht-milk-500-ml.webp",
+                "img": "/products/img/liquid-uht-milk/farm-fresh-uht-milk-500-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ultra Pasteurized Milk",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Ultra Pasteurized Milk is a type of milk that has been heated to a high temperature to kill bacteria and increase its shelf life. Ultra Pasteurized Milk is also known as Ultra-High Temperature (UHT) Milk.\nUltra Pasteurized Milk is a type of milk that has been heated to a high temperature to kill bacteria and increase its shelf life. Ultra Pasteurized Milk is also known as Ultra-High Temperature (UHT) Milk.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-24",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/ultra-pasteurized-milk-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/ultra-pasteurized-milk-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Mango Milk Drink UHT",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "Ingredients: Mango Pulp, Cow Milk, Sugar, Water, Stabilizers and Preservatives, Vitamins (A, C, D).\r Aarong Dairy Mango Milk Drink is a delicious and refreshing beverage that combines the rich taste of mango with the creaminess of cow milk. This UHT (Ultra-High Temperature) treated drink ensures freshness and longevity, making it ideal for on-the-go consumption. It is a perfect blend for a quick, nutritious snack.\r Usage: Consume chilled for the best taste and refreshment. Ideal for a quick drink at any time of the day.\nIngredients: Mango Pulp, Cow Milk, Sugar, Water, Stabilizers and Preservatives, Vitamins (A, C, D).\r\n \nAarong Dairy Mango Milk Drink is a delicious and refreshing beverage that combines the rich taste of mango with the creaminess of cow milk. This UHT (Ultra-High Temperature) treated drink ensures freshness and longevity, making it ideal for on-the-go consumption. It is a perfect blend for a quick, nutritious snack.\r\n \nUsage: Consume chilled for the best taste and refreshment. Ideal for a quick drink at any time of the day.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-25",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-mango-milk-drink-uht-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-mango-milk-drink-uht-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Kulfi Milk Drink",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Relish the traditional taste of Kulfi in a convenient drink form with Pran Kulfi Milk Drink. This 200 ml beverage brings the rich, creamy flavor of classic kulfi, making it an ideal refreshment on a hot day or a sweet treat anytime. Perfect for satisfying your cravings for something cool and indulgent.\nRelish the traditional taste of Kulfi in a convenient drink form with Pran Kulfi Milk Drink. This 200 ml beverage brings the rich, creamy flavor of classic kulfi, making it an ideal refreshment on a hot day or a sweet treat anytime. Perfect for satisfying your cravings for something cool and indulgent.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-26",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-kulfi-milk-drink-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-kulfi-milk-drink-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Mango Milk Drink",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-27",
+        "variants": [
+            {
+                "color": {
+                    "name": "180 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/pran-mango-milk-drink-180-ml.webp",
+                "img": "/products/img/liquid-uht-milk/pran-mango-milk-drink-180-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Arla UHT Milk Organic",
+        "entry": "Product of Bangladesh",
+        "price": "399",
+        "old_price": "399",
+        "description": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r Go Organic, Only for milk lovers.\rArla Organic Full Cream UHT Milk is  Completely organic through ideal production processes & enriched with Calcium, Protein, Potassium, and vitamins A, B, & D.\rOrganic Whole Milk with 3.5% fat content, 126 kcal energy per serving.\r\nThis product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r\n \nGo Organic, Only for milk lovers.\r\nArla Organic Full Cream UHT Milk is  Completely organic through ideal production processes & enriched with Calcium, Protein, Potassium, and vitamins A, B, & D.\r\nOrganic Whole Milk with 3.5% fat content, 126 kcal energy per serving.\r\n",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-28",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/arla-uht-milk-organic-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/arla-uht-milk-organic-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Aarong Dairy Strawberry Yogurt Drink UHT Milk",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "The Aarong Dairy Strawberry Yogurt Drink (UHT) 200 ml is a ready-to-drink yogurt beverage, that combines the sweetness of strawberry flavor with the creamy richness of yogurt. It is made using ultra-heat treatment (UHT) for extended shelf life, ensuring freshness and taste without the need for refrigeration until opened. This drink is an excellent source of probiotics, which support digestion and gut health, and it offers a refreshing option for both kids and adults. Perfect as a snack or on-the-go refreshment, it is designed to cater to health-conscious consumers looking for a flavorful and nutritious treat​.\nThe Aarong Dairy Strawberry Yogurt Drink (UHT) 200 ml is a ready-to-drink yogurt beverage, that combines the sweetness of strawberry flavor with the creamy richness of yogurt. It is made using ultra-heat treatment (UHT) for extended shelf life, ensuring freshness and taste without the need for refrigeration until opened. This drink is an excellent source of probiotics, which support digestion and gut health, and it offers a refreshing option for both kids and adults. Perfect as a snack or on-the-go refreshment, it is designed to cater to health-conscious consumers looking for a flavorful and nutritious treat​.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-29",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 ml"
+                },
+                "thumb": "/products/img/liquid-uht-milk/aarong-dairy-strawberry-yogurt-drink-uht-milk-200-ml.webp",
+                "img": "/products/img/liquid-uht-milk/aarong-dairy-strawberry-yogurt-drink-uht-milk-200-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Arla UHT Milk Skimmed",
+        "entry": "Product of Bangladesh",
+        "price": "320",
+        "old_price": "320",
+        "description": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r Are you ultra-health conscious?\rWithout compromising your health aspects, Arla bought you the lowest fat-containing Arla Skimmed UHT Milk. You will be undoubtedly satisfied just drinking it. Skimmed Milk with 0.3% fat content, 72kcal energy per serving.\nThis product is manufactured/packaged in Bangladesh and its raw materials are collected from Denmark.\r\n \nAre you ultra-health conscious?\r\nWithout compromising your health aspects, Arla bought you the lowest fat-containing Arla Skimmed UHT Milk. You will be undoubtedly satisfied just drinking it. Skimmed Milk with 0.3% fat content, 72kcal energy per serving.",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-30",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/arla-uht-milk-skimmed-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/arla-uht-milk-skimmed-1-ltr.webp"
+            }
+        ]
+    },
+    {
+        "name": "Cowhead UHT Milk Low Fat",
+        "entry": "Product of New Zealand",
+        "price": "419",
+        "old_price": "419",
+        "description": "Low Fat, High Calcium. Natural fresh cow's milk, is low in fat, and naturally high in calcium.\r \nLow Fat, High Calcium. Natural fresh cow's milk, is low in fat, and naturally high in calcium.\r\n ",
+        "department": "Grocery",
+        "category": "Liquid & UHT Milk",
+        "ref": "260225-31",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 ltr"
+                },
+                "thumb": "/products/img/liquid-uht-milk/cowhead-uht-milk-low-fat-1-ltr.webp",
+                "img": "/products/img/liquid-uht-milk/cowhead-uht-milk-low-fat-1-ltr.webp"
+            }
+        ]
+    }
+]

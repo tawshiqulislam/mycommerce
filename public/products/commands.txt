@@ -1,0 +1,29 @@
+conda activate bs
+
+python get_urls.py paths.txt
+
+python scrape_urls.py `
+...
+
+
+##After the above part is done
+
+python filenames.py
+python category-map.py
+python clean_null_entries.py categories
+
+##Then edit the category map
+
+
+python format_categories.py category-map.json
+
+python combine_all_categories.py
+python id_combined_json.py combined.json
+
+python fix-combined.py
+python colors.py
+
+##optional
+python split-combined.py
+
+python fix-duplicates.py

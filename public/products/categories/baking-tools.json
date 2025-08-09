@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Fondant Cutter Full Set",
+        "entry": "Fondant Cutter Full Set",
+        "price": "159",
+        "old_price": "195",
+        "description": "",
+        "department": "Grocery",
+        "category": "Baking Tools",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "3 pcs"
+                },
+                "thumb": "/products/img/baking-tools/fondant-cutter-full-set-3-pcs.webp",
+                "img": "/products/img/baking-tools/fondant-cutter-full-set-3-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Silicone Lace",
+        "entry": "Silicone Lace",
+        "price": "315",
+        "old_price": "379",
+        "description": "",
+        "department": "Grocery",
+        "category": "Baking Tools",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/baking-tools/silicone-lace-1-pcs.webp",
+                "img": "/products/img/baking-tools/silicone-lace-1-pcs.webp"
+            }
+        ]
+    }
+]

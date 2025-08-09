@@ -1,0 +1,416 @@
+[
+    {
+        "name": "Pran Drinko Litchi Juice",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Pran Drinko Float Litchi Drink is an instant drink . It consists sugar jelly in the drink which increase the taste and makes it more interesting to drink. Litchi flavored drink is always fun to have.\nPran Drinko Float Litchi Drink is an instant drink . It consists sugar jelly in the drink which increase the taste and makes it more interesting to drink. Litchi flavored drink is always fun to have.",
+        "img": "/products/img/juice/pran-drinko-litchi-juice-250-ml.webp"
+    },
+    {
+        "name": "Frutika Mango Juice",
+        "color": "1 ltr",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Frutika Mango Juice is manufactured by Akij Food and Beverage Limited. Frutika is made with treated water, mango pulp, refined sugar, citric acid, sodium citrate, sodium benzoate, and mango flavor. Frutika Mango Juice is fresh, tasty, and healthy.\nFrutika Mango Juice is manufactured by Akij Food and Beverage Limited. Frutika is made with treated water, mango pulp, refined sugar, citric acid, sodium citrate, sodium benzoate, and mango flavor. Frutika Mango Juice is fresh, tasty, and healthy.",
+        "img": "/products/img/juice/frutika-mango-juice-1-ltr.webp"
+    },
+    {
+        "name": "Starship Mango Junior",
+        "color": "125 ml",
+        "entry": "Product of Bangladesh",
+        "price": "15",
+        "old_price": "15",
+        "description": "Introducing Starship Mango Junior, a delightful 125 ml serving of pure mango goodness.This product offers a burst of tropical flavor in a convenient and portable package, making it a perfect treat for mango enthusiasts of all ages.Experience the taste of sunshine with Starship Mango Junior. Each 125 ml serving is packed with the sweet and succulent essence of ripe mangoes, capturing the pure delight of this tropical fruit. Whether you're looking for a refreshing pick-me-up on a hot day or a satisfying snack to enjoy anytime, Starship Mango Junior has you covered.\nIntroducing Starship Mango Junior, a delightful 125 ml serving of pure mango goodness.This product offers a burst of tropical flavor in a convenient and portable package, making it a perfect treat for mango enthusiasts of all ages.Experience the taste of sunshine with Starship Mango Junior. Each 125 ml serving is packed with the sweet and succulent essence of ripe mangoes, capturing the pure delight of this tropical fruit. Whether you're looking for a refreshing pick-me-up on a hot day or a satisfying snack to enjoy anytime, Starship Mango Junior has you covered.",
+        "img": "/products/img/juice/starship-mango-junior-125-ml.webp"
+    },
+    {
+        "name": "Nutrilife Apple Juice",
+        "color": "160 ml",
+        "entry": "Product of Bhutan",
+        "price": "45",
+        "old_price": "45",
+        "description": "NutriLife Apple Juice brings you the highest quality and taste of real Apple. It is full of nutrition and supports good health.\nNutriLife Apple Juice brings you the highest quality and taste of real Apple. It is full of nutrition and supports good health.",
+        "img": "/products/img/juice/nutrilife-apple-juice-160-ml.webp"
+    },
+    {
+        "name": "Nutrilife Mango Juice",
+        "color": "160 ml",
+        "entry": "Product of Bhutan",
+        "price": "45",
+        "old_price": "45",
+        "description": "Made from the best quality mangoes, chosen after a thorough process, this juice is perfect for your breakfast. Coming from the house of Real products, this has no added preservatives, keeping the natural flavor of the product consistent.\nMade from the best quality mangoes, chosen after a thorough process, this juice is perfect for your breakfast. Coming from the house of Real products, this has no added preservatives, keeping the natural flavor of the product consistent.",
+        "img": "/products/img/juice/nutrilife-mango-juice-160-ml.webp"
+    },
+    {
+        "name": "Nutrilife Orange Juice",
+        "color": "1 ltr",
+        "entry": "Product of India",
+        "price": "295",
+        "old_price": "295",
+        "description": "Nutrilife Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine\nNutrilife Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine",
+        "img": "/products/img/juice/nutrilife-orange-juice-1-ltr.webp"
+    },
+    {
+        "name": "Latina 100 % Juice (Apple)",
+        "color": "1 ltr",
+        "entry": "Product of Bangladesh",
+        "price": "285",
+        "old_price": "285",
+        "description": "Made from  fresh-picked apples with the goodness in a bottle. So, Splash yourselves with a breath of pure refreshment with Latina Apple Juice. Brand: Pran Food and Beverage Limited. Net weight: 1 Ltr.\nMade from  fresh-picked apples with the goodness in a bottle. So, Splash yourselves with a breath of pure refreshment with Latina Apple Juice. Brand: Pran Food and Beverage Limited. Net weight: 1 Ltr.",
+        "img": "/products/img/juice/latina-100-juice-apple-1-ltr.webp"
+    },
+    {
+        "name": "Nutrilife Mango Juice",
+        "color": "1 ltr",
+        "entry": "Product of Bhutan",
+        "price": "295",
+        "old_price": "295",
+        "description": "Made from the best quality mangoes, chosen after a thorough process, this juice is perfect for your breakfast. Coming from the house of Real products, this has no added preservatives, keeping the natural flavour of the product consistent.\nMade from the best quality mangoes, chosen after a thorough process, this juice is perfect for your breakfast. Coming from the house of Real products, this has no added preservatives, keeping the natural flavour of the product consistent.",
+        "img": "/products/img/juice/nutrilife-mango-juice-1-ltr.webp"
+    },
+    {
+        "name": "Frutika Mango Juice",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "50",
+        "old_price": "50",
+        "description": "Frutika Mango Juice is manufactured by Akij Food and Beverage Limited. Frutika is made with treated water, mango pulp, refined sugar, citric acid, sodium citrate, sodium benzoate, and mango flavor. Frutika Mango Juice is fresh, tasty and healthy.\nFrutika Mango Juice is manufactured by Akij Food and Beverage Limited. Frutika is made with treated water, mango pulp, refined sugar, citric acid, sodium citrate, sodium benzoate, and mango flavor. Frutika Mango Juice is fresh, tasty and healthy.",
+        "img": "/products/img/juice/frutika-mango-juice-500-ml.webp"
+    },
+    {
+        "name": "Nutrilife Orange Juice",
+        "color": "160 ml",
+        "entry": "Product of Bhutan",
+        "price": "45",
+        "old_price": "45",
+        "description": "Nutrilife Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine\nNutrilife Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine",
+        "img": "/products/img/juice/nutrilife-orange-juice-160-ml.webp"
+    },
+    {
+        "name": "Frutika Mango Drinks",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Frutika Mango Drink offers a rich, authentic taste of ripe mangoes. Made from real mango pulp, it delivers a naturally sweet flavor. The 250 ml bottle is convenient for individual consumption. Enjoy the tropical flavor of mangoes anytime, anywhere, perfect for on-the-go refreshment.\nFrutika Mango Drink offers a rich, authentic taste of ripe mangoes. Made from real mango pulp, it delivers a naturally sweet flavor. The 250 ml bottle is convenient for individual consumption. Enjoy the tropical flavor of mangoes anytime, anywhere, perfect for on-the-go refreshment.",
+        "img": "/products/img/juice/frutika-mango-drinks-250-ml.webp"
+    },
+    {
+        "name": "Aafi Mango Drinks",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "50",
+        "old_price": "50",
+        "description": "Aafi Mango Drinks brings the rich, sweet taste of mango in a 500 ml bottle. Made with real mango pulp, this drink is a favorite for those who love tropical flavors. It offers a great balance of sweetness and freshness, making it a perfect choice for hot summer days.\nAafi Mango Drinks brings the rich, sweet taste of mango in a 500 ml bottle. Made with real mango pulp, this drink is a favorite for those who love tropical flavors. It offers a great balance of sweetness and freshness, making it a perfect choice for hot summer days.",
+        "img": "/products/img/juice/aafi-mango-drinks-500-ml.webp"
+    },
+    {
+        "name": "Nutrilife Guava Juice",
+        "color": "160 ml",
+        "entry": "Product of Bhutan",
+        "price": "45",
+        "old_price": "45",
+        "description": "Nutrilife Guavas are an excellent source of dietary fiber, antioxidants, Vitamin C, and other minerals like potassium. According to researchers, a single guava consists of Vitamin C about 4 times more than a single orange.\nNutrilife Guavas are an excellent source of dietary fiber, antioxidants, Vitamin C, and other minerals like potassium. According to researchers, a single guava consists of Vitamin C about 4 times more than a single orange.",
+        "img": "/products/img/juice/nutrilife-guava-juice-160-ml.webp"
+    },
+    {
+        "name": "Pran Drinko Mango Juice",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Indulge in the tropical taste of Pran Drinko Mango Juice. Crafted from ripe mangoes, this juice offers a rich, smooth, and sweet flavor that's perfect for any occasion.\nIndulge in the tropical taste of Pran Drinko Mango Juice. Crafted from ripe mangoes, this juice offers a rich, smooth, and sweet flavor that's perfect for any occasion.",
+        "img": "/products/img/juice/pran-drinko-mango-juice-250-ml.webp"
+    },
+    {
+        "name": "Nutrilife Guava Juice",
+        "color": "1 ltr",
+        "entry": "Product of Bhutan",
+        "price": "295",
+        "old_price": "295",
+        "description": "Nutrilife Guavas are an excellent source of dietary fiber, antioxidants, Vitamin C, and other minerals like potassium. According to researchers, a single guava consists of Vitamin C about 4 times more than a single orange.\nNutrilife Guavas are an excellent source of dietary fiber, antioxidants, Vitamin C, and other minerals like potassium. According to researchers, a single guava consists of Vitamin C about 4 times more than a single orange.",
+        "img": "/products/img/juice/nutrilife-guava-juice-1-ltr.webp"
+    },
+    {
+        "name": "Pran Drinko Pineapple Juice",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Refresh yourself with Pran Drinko Pineapple Juice. Made from fresh, sweet pineapples, this juice is a tropical delight that provides a burst of flavor and natural nutrients in every sip.\r\nRefresh yourself with Pran Drinko Pineapple Juice. Made from fresh, sweet pineapples, this juice is a tropical delight that provides a burst of flavor and natural nutrients in every sip.\r\n",
+        "img": "/products/img/juice/pran-drinko-pineapple-juice-250-ml.webp"
+    },
+    {
+        "name": "Shezan Mango Fruit Drink",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "45",
+        "old_price": "45",
+        "description": "Shezan Mango Fruit Drink (500 ml) is a delightful blend of natural sweetness and tropical goodness. The pure mango flavor is a nostalgic reminder of summer days. Whether you're quenching your thirst after a workout or simply enjoying a leisurely moment, Shezan Mango Fruit Drink provides instant refreshment.\nShezan Mango Fruit Drink (500 ml) is a delightful blend of natural sweetness and tropical goodness. The pure mango flavor is a nostalgic reminder of summer days. Whether you're quenching your thirst after a workout or simply enjoying a leisurely moment, Shezan Mango Fruit Drink provides instant refreshment.",
+        "img": "/products/img/juice/shezan-mango-fruit-drink-500-ml.webp"
+    },
+    {
+        "name": "Sun Sweet Prune Juice",
+        "color": "946 ml",
+        "entry": "Product of United States",
+        "price": "1,080",
+        "old_price": "1,080",
+        "description": "Experience the natural goodness and rich flavor of Sun Sweet Prune Juice in this convenient 946-milliliter bottle. Our prune juice is a testament to the timeless appeal of nature's bounty, providing a delicious and nutritious way to support your overall well-being. Whether you're seeking digestive support, a nutritious addition to your diet, or simply a tasty beverage, our prune juice offers a convenient and enjoyable solution. Sip, savor, and nourish your body with the goodness of Sun Sweet Prune Juice.\nExperience the natural goodness and rich flavor of Sun Sweet Prune Juice in this convenient 946-milliliter bottle. Our prune juice is a testament to the timeless appeal of nature's bounty, providing a delicious and nutritious way to support your overall well-being. Whether you're seeking digestive support, a nutritious addition to your diet, or simply a tasty beverage, our prune juice offers a convenient and enjoyable solution. Sip, savor, and nourish your body with the goodness of Sun Sweet Prune Juice.",
+        "img": "/products/img/juice/sun-sweet-prune-juice-946-ml.webp"
+    },
+    {
+        "name": "Shezan Mango Fruit Drinks",
+        "color": "1 ltr",
+        "entry": "Product of Bangladesh",
+        "price": "85",
+        "old_price": "85",
+        "description": "Shezan Mango Fruit Drinks is a great beverage for any occasion. It is made from fresh mango pulp. It contains essential nutrition. It is a healthy fruit drink for everyone. Shezan Mango Fruit Drink is fresh, tasty, and healthy.\nShezan Mango Fruit Drinks is a great beverage for any occasion. It is made from fresh mango pulp. It contains essential nutrition. It is a healthy fruit drink for everyone. Shezan Mango Fruit Drink is fresh, tasty, and healthy.",
+        "img": "/products/img/juice/shezan-mango-fruit-drinks-1-ltr.webp"
+    },
+    {
+        "name": "Latina 100 % Juice (Orange)",
+        "color": "1 ltr",
+        "entry": "Product of Bangladesh",
+        "price": "285",
+        "old_price": "285",
+        "description": "Chaldal has a range of locally sourced  natural pulp fruit juice. And Latina Orange Juice is one of them.   Brand: PRAN Dairy.  Net Weight: 1 Ltr.  Juice Type: Orange Juice.\nChaldal has a range of locally sourced  natural pulp fruit juice. And Latina Orange Juice is one of them.   Brand: PRAN Dairy.  Net Weight: 1 Ltr.  Juice Type: Orange Juice.",
+        "img": "/products/img/juice/latina-100-juice-orange-1-ltr.webp"
+    },
+    {
+        "name": "Pran Frooto Mango Fruit Drink",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "25",
+        "old_price": "25",
+        "description": "",
+        "img": "/products/img/juice/pran-frooto-mango-fruit-drink-250-ml.webp"
+    },
+    {
+        "name": "Pran Frooto Mango Fruit Drink",
+        "color": "1 ltr",
+        "entry": "Product of Bangladesh",
+        "price": "80",
+        "old_price": "80",
+        "description": "",
+        "img": "/products/img/juice/pran-frooto-mango-fruit-drink-1-ltr.webp"
+    },
+    {
+        "name": "Nutrilife Pomegranate Juice",
+        "color": "1 ltr",
+        "entry": "Product of Bhutan",
+        "price": "295",
+        "old_price": "295",
+        "description": "Purified water, reconstituted pomegranate juice- 12% sugar, acidity regulator (E-330), stabilizer (E440) & antioxidants (E300) contain permitted synthetic food color (E122) and added permitted natural identical flavoring substances.\nPurified water, reconstituted pomegranate juice- 12% sugar, acidity regulator (E-330), stabilizer (E440) & antioxidants (E300) contain permitted synthetic food color (E122) and added permitted natural identical flavoring substances.",
+        "img": "/products/img/juice/nutrilife-pomegranate-juice-1-ltr.webp"
+    },
+    {
+        "name": "Pran Pomegranate Fruit Drinks",
+        "color": "200 ml",
+        "entry": "Product of Bangladesh",
+        "price": "25",
+        "old_price": "25",
+        "description": "Pomegranate contains antioxidants and anti-inflammatory substances. Pomegranate juice may benefit people with inflammatory conditions, diabetes, and other health issues. It may also boost digestion and memory and help prevent cancer.\nPomegranate contains antioxidants and anti-inflammatory substances. Pomegranate juice may benefit people with inflammatory conditions, diabetes, and other health issues. It may also boost digestion and memory and help prevent cancer.",
+        "img": "/products/img/juice/pran-pomegranate-fruit-drinks-200-ml.webp"
+    },
+    {
+        "name": "Bruvana Sports+ Electrolyte Beverage (Mango Flavor)",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "40",
+        "old_price": "40",
+        "description": "Bruvana Sports+ Electrolyte Beverage Mango drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.\nBruvana Sports+ Electrolyte Beverage Mango drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.",
+        "img": "/products/img/juice/bruvana-sports-electrolyte-beverage-mango-flavor-250-ml.webp"
+    },
+    {
+        "name": "Bruvana Sports+ Electrolyte Beverage (Litchi Flavor)",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "40",
+        "old_price": "40",
+        "description": "Bruvana Sports+ Electrolyte esh  Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.\nBruvana Sports+ Electrolyte esh  Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.",
+        "img": "/products/img/juice/bruvana-sports-electrolyte-beverage-litchi-flavor-250-ml.webp"
+    },
+    {
+        "name": "Bruvana Sports+ Electrolyte Beverage (Litchi Flavor)",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "75",
+        "old_price": "75",
+        "description": "Bruvana Sports+ Electrolyte Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.\nBruvana Sports+ Electrolyte Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.",
+        "img": "/products/img/juice/bruvana-sports-electrolyte-beverage-litchi-flavor-500-ml.webp"
+    },
+    {
+        "name": "Bruvana Sports+ Electrolyte Beverage (Mango Flavor)",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "75",
+        "old_price": "75",
+        "description": "Bruvana Sports+ Electrolyte Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.\nBruvana Sports+ Electrolyte Beverage Lychee drink is a refreshing and hydrating beverage designed for athletes and active individuals. With a delicious Lychee flavor, it replenishes essential electrolytes lost during exercise and provides energy for optimal performance. It contains no artificial colors, flavors, or sweeteners and is perfect for pre, during, or post-workout hydration.",
+        "img": "/products/img/juice/bruvana-sports-electrolyte-beverage-mango-flavor-500-ml.webp"
+    },
+    {
+        "name": "Masafi Mango Nectar Juice",
+        "color": "1 ltr",
+        "entry": "Product of United Arab Emirates",
+        "price": "579",
+        "old_price": "579",
+        "description": "Masafi Mango Nectar Juice offers a fresh, fruity, and smooth mango flavor in every sip. The 1-litre bottle is perfect for family gatherings, parties, or a refreshing drink on a hot day. Packed with the essence of ripe mangoes, it\u2019s a delicious and healthy beverage. Ideal for those who love the tropical taste of mango juice!\nMasafi Mango Nectar Juice offers a fresh, fruity, and smooth mango flavor in every sip. The 1-litre bottle is perfect for family gatherings, parties, or a refreshing drink on a hot day. Packed with the essence of ripe mangoes, it\u2019s a delicious and healthy beverage. Ideal for those who love the tropical taste of mango juice!",
+        "img": "/products/img/juice/masafi-mango-nectar-juice-1-ltr.webp"
+    },
+    {
+        "name": "Cyprina Mango Nectar",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "470",
+        "old_price": "470",
+        "description": "Ingredients: The ingredients for Cyprina Mango Nectar include mango pulp, water, sugar, and citric acid\u200b.\r Use: This juice is refreshing and perfect for hot weather, as well as a healthy beverage option. It's commonly enjoyed as a standalone drink or can be added to smoothies or desserts. It's also known for its potential health benefits, such as providing vitamins, antioxidants, and having anti-inflammatory properties\u200b.\nIngredients: The ingredients for Cyprina Mango Nectar include mango pulp, water, sugar, and citric acid\u200b.\r\n \nUse: This juice is refreshing and perfect for hot weather, as well as a healthy beverage option. It's commonly enjoyed as a standalone drink or can be added to smoothies or desserts. It's also known for its potential health benefits, such as providing vitamins, antioxidants, and having anti-inflammatory properties\u200b.",
+        "img": "/products/img/juice/cyprina-mango-nectar-1-ltr.webp"
+    },
+    {
+        "name": "Cyprina Tropical Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "440",
+        "old_price": "440",
+        "description": "Cyprina Tropical Juice is a refreshing beverage made with a blend of natural tropical fruits. \r Ingredients: The juice is natural with no added sugars, preservatives, or artificial colors and flavors. It is produced using aseptic technology to preserve the freshness\u200b.\r Use: Enjoy it as a refreshing drink, perfect for hydration or as part of a healthy lifestyle\u200b.\nCyprina Tropical Juice is a refreshing beverage made with a blend of natural tropical fruits. \r\n \nIngredients: The juice is natural with no added sugars, preservatives, or artificial colors and flavors. It is produced using aseptic technology to preserve the freshness\u200b.\r\n \nUse: Enjoy it as a refreshing drink, perfect for hydration or as part of a healthy lifestyle\u200b.",
+        "img": "/products/img/juice/cyprina-tropical-juice-1-ltr.webp"
+    },
+    {
+        "name": "Aloe Vera Mango Drink",
+        "color": "500 ml",
+        "entry": "Product of China",
+        "price": "449",
+        "old_price": "449",
+        "description": "Almer Aloe Vera Mango Drink combines the goodness of aloe vera with the tropical sweetness of mangoes.\rSip on this delightful drink to quench your thirst and stay refreshed.\rEach sip contains real aloe vera pulp, adding texture and authenticity.\nAlmer Aloe Vera Mango Drink combines the goodness of aloe vera with the tropical sweetness of mangoes.\r\nSip on this delightful drink to quench your thirst and stay refreshed.\r\nEach sip contains real aloe vera pulp, adding texture and authenticity.",
+        "img": "/products/img/juice/aloe-vera-mango-drink-500-ml.webp"
+    },
+    {
+        "name": "Lotte Sac Sac Grape Drink",
+        "color": "240 ml",
+        "entry": "Product of Korea, Republic of",
+        "price": "169",
+        "old_price": "169",
+        "description": "",
+        "img": "/products/img/juice/lotte-sac-sac-grape-drink-240-ml.webp"
+    },
+    {
+        "name": "Cyprina Apple Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "415",
+        "old_price": "415",
+        "description": "The Cyprina Apple Juice (1 liter) is a refreshing, Natural juice, primarily sourced from apple concentrate. It is known for its crisp and pure apple flavor, making it a popular choice for both hydration and as an ingredient in smoothies or cocktails.\r Ingredients: The main ingredient is apple juice concentrate, with no added preservatives or artificial flavors\u200b.\r Use: Cyprina Apple Juice can be consumed directly as a refreshing beverage. It can also be used as a base for mixed drinks, smoothies, or in various recipes requiring apple juice\u200b.\nThe Cyprina Apple Juice (1 liter) is a refreshing, Natural juice, primarily sourced from apple concentrate. It is known for its crisp and pure apple flavor, making it a popular choice for both hydration and as an ingredient in smoothies or cocktails.\r\n \nIngredients: The main ingredient is apple juice concentrate, with no added preservatives or artificial flavors\u200b.\r\n \nUse: Cyprina Apple Juice can be consumed directly as a refreshing beverage. It can also be used as a base for mixed drinks, smoothies, or in various recipes requiring apple juice\u200b.",
+        "img": "/products/img/juice/cyprina-apple-juice-1-ltr.webp"
+    },
+    {
+        "name": "Tipco Pomegranate & Mixed Fruit Juice",
+        "color": "1 ltr",
+        "entry": "Product of Thailand",
+        "price": "525",
+        "old_price": "525",
+        "description": "Tipco Pomegranate & Mixed Fruit Juice (1 liter) is a refreshing beverage made from a blend of natural fruit juices, including pomegranate, grape, and apple. It is a juice with no added sugar, preservatives, artificial colorants, or flavorings, making it a healthy choice. This juice is rich in essential vitamins such as Vitamin A, C, and E, offering various health benefits like promoting a strong immune system and supporting digestive health\u200b.\r Ingredients:  Natural juices from pomegranate, grape, and apple\u200b.\r Use: Ready to drink; best served chilled for maximum refreshment\u200b.\nTipco Pomegranate & Mixed Fruit Juice (1 liter) is a refreshing beverage made from a blend of natural fruit juices, including pomegranate, grape, and apple. It is a juice with no added sugar, preservatives, artificial colorants, or flavorings, making it a healthy choice. This juice is rich in essential vitamins such as Vitamin A, C, and E, offering various health benefits like promoting a strong immune system and supporting digestive health\u200b.\r\n \nIngredients:  Natural juices from pomegranate, grape, and apple\u200b.\r\n \nUse: Ready to drink; best served chilled for maximum refreshment\u200b.",
+        "img": "/products/img/juice/tipco-pomegranate-mixed-fruit-juice-1-ltr.webp"
+    },
+    {
+        "name": "Tipco Red Grape Juice",
+        "color": "1 ltr",
+        "entry": "Product of Thailand",
+        "price": "525",
+        "old_price": "525",
+        "description": "Tipco Red Grape Juice (1 L) is a refreshing drink made from real red grape juice, without any added sugars, preservatives, colors, or flavors. It is a natural source of vitamin C, providing a healthy option for those seeking a revitalizing beverage. This juice is perfect for breakfast, as a refreshing drink throughout the day, or for enjoying during picnics and travel.\r Ingredients:  Red grape juice\u200b.\r Use: Ideal for a morning start, as a snack drink, or to complement meals\u200b.\nTipco Red Grape Juice (1 L) is a refreshing drink made from real red grape juice, without any added sugars, preservatives, colors, or flavors. It is a natural source of vitamin C, providing a healthy option for those seeking a revitalizing beverage. This juice is perfect for breakfast, as a refreshing drink throughout the day, or for enjoying during picnics and travel.\r\n \nIngredients:  Red grape juice\u200b.\r\n \nUse: Ideal for a morning start, as a snack drink, or to complement meals\u200b.",
+        "img": "/products/img/juice/tipco-red-grape-juice-1-ltr.webp"
+    },
+    {
+        "name": "Tipco Pineapple Juice",
+        "color": "970 ml",
+        "entry": "Product of Thailand",
+        "price": "525",
+        "old_price": "525",
+        "description": "The Tipco Pineapple Juice 970 ml is a product of Thailand, made from  pure, non-concentrated pineapple juice. It contains no added sugar, preservatives, or artificial flavors, preserving the natural sweetness and tropical flavor of the fruit. The juice is rich in vitamins and minerals, providing a refreshing and healthy drink.\r \u200bIngredients: The juice is made from  pineapple juice with no added sugars or preservatives\u200b.\r Use: Tipco Pineapple Juice is ideal for a refreshing beverage at any time of the day. It can be consumed on its own or used in smoothies and cocktails.\nThe Tipco Pineapple Juice 970 ml is a product of Thailand, made from  pure, non-concentrated pineapple juice. It contains no added sugar, preservatives, or artificial flavors, preserving the natural sweetness and tropical flavor of the fruit. The juice is rich in vitamins and minerals, providing a refreshing and healthy drink.\r\n \n\u200bIngredients: The juice is made from  pineapple juice with no added sugars or preservatives\u200b.\r\n \nUse: Tipco Pineapple Juice is ideal for a refreshing beverage at any time of the day. It can be consumed on its own or used in smoothies and cocktails.",
+        "img": "/products/img/juice/tipco-pineapple-juice-970-ml.webp"
+    },
+    {
+        "name": "Tipco Guava Juice",
+        "color": "1 ltr",
+        "entry": "Product of Thailand",
+        "price": "525",
+        "old_price": "525",
+        "description": "Tipco Guava Juice is a refreshing fruit beverage made from natural guava juice. It is known for its rich, fresh taste, providing a healthy alternative to sugary soft drinks. With no preservatives or artificial colors, it offers a natural and nutritious drink option.\r Source: The juice is made with high-quality guava sourced from Thailand\u200b.\r Ingredients: Guava Juice,\r1.Water and sugar (depending on the specific variant).\r2.Free from preservatives and artificial flavors.\r Use: Tipco Guava Juice is ready to drink straight from the bottle, offering an instant refreshing experience.\rSmoothies and blends: Can be used as a base for smoothies or mixed with other fruits to enhance flavor. Meal pairing: It is a great beverage to accompany breakfast or serve as a hydrating drink during the day.\nTipco Guava Juice is a refreshing fruit beverage made from natural guava juice. It is known for its rich, fresh taste, providing a healthy alternative to sugary soft drinks. With no preservatives or artificial colors, it offers a natural and nutritious drink option.\r\n \nSource: The juice is made with high-quality guava sourced from Thailand\u200b.\r\n \nIngredients: Guava Juice,\r\n1.Water and sugar (depending on the specific variant).\r\n2.Free from preservatives and artificial flavors.\r\n \nUse: Tipco Guava Juice is ready to drink straight from the bottle, offering an instant refreshing experience.\r\nSmoothies and blends: Can be used as a base for smoothies or mixed with other fruits to enhance flavor. Meal pairing: It is a great beverage to accompany breakfast or serve as a hydrating drink during the day.",
+        "img": "/products/img/juice/tipco-guava-juice-1-ltr.webp"
+    },
+    {
+        "name": "Fontana Pineapple Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "475",
+        "old_price": "475",
+        "description": "",
+        "img": "/products/img/juice/fontana-pineapple-juice-1-ltr.webp"
+    },
+    {
+        "name": "Fontana Orange Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "475",
+        "old_price": "475",
+        "description": "",
+        "img": "/products/img/juice/fontana-orange-juice-1-ltr.webp"
+    },
+    {
+        "name": "Fontana Grape Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "475",
+        "old_price": "475",
+        "description": "",
+        "img": "/products/img/juice/fontana-grape-juice-1-ltr.webp"
+    },
+    {
+        "name": "Fontana Apple Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "475",
+        "old_price": "475",
+        "description": "",
+        "img": "/products/img/juice/fontana-apple-juice-1-ltr.webp"
+    },
+    {
+        "name": "Cyprina Fruit Drink Cranberry",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "470",
+        "old_price": "470",
+        "description": "Cyprina Fruit Drink Cranberry (1L) is a refreshing beverage made from high-quality cranberries. It is known for being a natural fruit drink with no added preservatives, artificial flavors, or sugars. The product contains essential vitamins like Vitamin C, supporting immunity and general health.\r Ingredients: Water, cranberry juice concentrate (99%), and no added sugar or preservatives\u200b.\r Use: Best served chilled. It can be enjoyed as a refreshing drink or mixed with other beverages or cocktails.\nCyprina Fruit Drink Cranberry (1L) is a refreshing beverage made from high-quality cranberries. It is known for being a natural fruit drink with no added preservatives, artificial flavors, or sugars. The product contains essential vitamins like Vitamin C, supporting immunity and general health.\r\n \nIngredients: Water, cranberry juice concentrate (99%), and no added sugar or preservatives\u200b.\r\n \nUse: Best served chilled. It can be enjoyed as a refreshing drink or mixed with other beverages or cocktails.",
+        "img": "/products/img/juice/cyprina-fruit-drink-cranberry-1-ltr.webp"
+    },
+    {
+        "name": "Pran Frooto Mango Fruit Drink",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "45",
+        "old_price": "45",
+        "description": "",
+        "img": "/products/img/juice/pran-frooto-mango-fruit-drink-500-ml.webp"
+    },
+    {
+        "name": "Cyprina Orange Juice",
+        "color": "1 ltr",
+        "entry": "Product of Cyprus",
+        "price": "470",
+        "old_price": "470",
+        "description": "Pure fruit juice is one of the best nature's most delicious gifts. Cyprina fruit juice is pure. Made from pure, naturally obtained fruit without any additives.\nPure fruit juice is one of the best nature's most delicious gifts. Cyprina fruit juice is pure. Made from pure, naturally obtained fruit without any additives.",
+        "img": "/products/img/juice/cyprina-orange-juice-1-ltr.webp"
+    },
+    {
+        "name": "Acme Classic Mango Fruit Drinks",
+        "color": "250 ml",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "ACME Classic Mango Juice! Made with real mango pulp, this delightful drink offers a refreshing burst of mango flavor in every sip. ACME Classic Mango Drinks is an excellent source of Vitamin C, providing a vital immune system boost, and contains potassium and other minerals.\nACME Classic Mango Juice! Made with real mango pulp, this delightful drink offers a refreshing burst of mango flavor in every sip. ACME Classic Mango Drinks is an excellent source of Vitamin C, providing a vital immune system boost, and contains potassium and other minerals.",
+        "img": "/products/img/juice/acme-classic-mango-fruit-drinks-250-ml.webp"
+    }
+]

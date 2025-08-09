@@ -1,0 +1,21 @@
+[
+    {
+        "name": "RFL TEL Modern Flower Tub With Tray (Brown) 6 inch",
+        "entry": "Product of Bangladesh",
+        "price": "50",
+        "old_price": "50",
+        "description": "",
+        "department": "Home+",
+        "category": "Gardening",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/gardening/rfl-tel-modern-flower-tub-with-tray-brown-6-inch-1-pcs.webp",
+                "img": "/products/img/gardening/rfl-tel-modern-flower-tub-with-tray-brown-6-inch-1-pcs.webp"
+            }
+        ]
+    }
+]

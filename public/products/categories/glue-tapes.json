@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Deli Packing Tape Dispenser",
+        "entry": "Product of China",
+        "price": "610",
+        "old_price": "610",
+        "description": "Model: E800\nModel: E800",
+        "department": "Home+",
+        "category": "Glue Tapes",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/glue-tapes/deli-packing-tape-dispenser-1-pcs.webp",
+                "img": "/products/img/glue-tapes/deli-packing-tape-dispenser-1-pcs.webp"
+            }
+        ]
+    }
+]

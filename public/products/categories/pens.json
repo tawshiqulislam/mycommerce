@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Econo Trendy Ball Pen",
+        "entry": "Product of Bangladesh",
+        "price": "50",
+        "old_price": "50",
+        "description": "Brands: Econo\rQTY: 10 PCS\rType: Pen\nBrands: Econo\r\nQTY: 10 PCS\r\nType: Pen",
+        "department": "Home+",
+        "category": "Pens",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "10 pcs"
+                },
+                "thumb": "/products/img/pens/econo-trendy-ball-pen-10-pcs.webp",
+                "img": "/products/img/pens/econo-trendy-ball-pen-10-pcs.webp"
+            }
+        ]
+    }
+]

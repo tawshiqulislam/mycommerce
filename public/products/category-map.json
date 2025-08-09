@@ -1,0 +1,892 @@
+[
+    {
+        "json_file": "air-freshners.json",
+        "category": "Air Freshners",
+        "department": "Home+"
+    },
+    {
+        "json_file": "allergy.json",
+        "category": "Allergy",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "antiseptics.json",
+        "category": "Antiseptics",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "asthma.json",
+        "category": "Asthma",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "baby-accessories.json",
+        "category": "Baby Accessories",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "baby-oral-care.json",
+        "category": "Baby Oral Care",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "baking-ingredients.json",
+        "category": "Baking Ingredients",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "baking-mixes.json",
+        "category": "Baking Mixes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "baking-tools.json",
+        "category": "Baking Tools",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "baskets-buckets.json",
+        "category": "Baskets & Buckets",
+        "department": "Home+"
+    },
+    {
+        "json_file": "bath-skincare.json",
+        "category": "Baby Skincare",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "batteries.json",
+        "category": "Batteries",
+        "department": "Home+"
+    },
+    {
+        "json_file": "beard-grooming.json",
+        "category": "Beard Grooming",
+        "department": "Glow"
+    },
+    {
+        "json_file": "beauty.json",
+        "category": "Beauty",
+        "department": "Glow"
+    },
+    {
+        "json_file": "beverages-tea.json",
+        "category": "Beverages & Tea",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "birth-control-contraceptives.json",
+        "category": "Birth Control & Contraceptives",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "blood-pressure.json",
+        "category": "Blood Pressure",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "body-hair-oil.json",
+        "category": "Body & Hair Oil",
+        "department": "Glow"
+    },
+    {
+        "json_file": "box-container.json",
+        "category": "Box Container",
+        "department": "Home+"
+    },
+    {
+        "json_file": "breads.json",
+        "category": "Breads",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "butter-sour-cream.json",
+        "category": "Butter Sour Cream",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cakes.json",
+        "category": "Cakes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "calculators.json",
+        "category": "Calculators",
+        "department": "Home+"
+    },
+    {
+        "json_file": "candies.json",
+        "category": "Candies",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cereals.json",
+        "category": "Cereals",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cheeses.json",
+        "category": "Cheeses",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "chicken-poultry.json",
+        "category": "Chicken & Poultry",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "chips-pretzels.json",
+        "category": "Chips & Pretzels",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "chocolates.json",
+        "category": "Chocolates",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "coffees.json",
+        "category": "Coffees",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cold-flu.json",
+        "category": "Cold Flu",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "colors-flavours.json",
+        "category": "Colors & Flavours",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "condensed-milk-cream.json",
+        "category": "Condensed Milk & Cream",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cookies-2.json",
+        "category": "Cookies",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cooking-sauces.json",
+        "category": "Cooking Sauces",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "cough.json",
+        "category": "Cough",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "cream-biscuits.json",
+        "category": "Cream Biscuits",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "creams.json",
+        "category": "Creams",
+        "department": "Glow"
+    },
+    {
+        "json_file": "cutting-2.json",
+        "category": "Cutting",
+        "department": "Home+"
+    },
+    {
+        "json_file": "dal-or-lentil.json",
+        "category": "Dal Or Lentil",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "deodorants.json",
+        "category": "Deodorants",
+        "department": "Glow"
+    },
+    {
+        "json_file": "diabetes.json",
+        "category": "Diabetes",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "diabetic-food.json",
+        "category": "Diabetic Food",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "digestive-health.json",
+        "category": "Digestive Health",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "disposables.json",
+        "category": "Disposables",
+        "department": "Home+"
+    },
+    {
+        "json_file": "dried-fish.json",
+        "category": "Dried Fish",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "ear.json",
+        "category": "Ear",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "eggs.json",
+        "category": "Eggs",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "elderly-care.json",
+        "category": "Elderly Care",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "electronics.json",
+        "category": "Electronics",
+        "department": "Home+"
+    },
+    {
+        "json_file": "energy-boosters.json",
+        "category": "Energy Boosters",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "erasers-correction-fluid.json",
+        "category": "Erasers Correction Fluid",
+        "department": "Home+"
+    },
+    {
+        "json_file": "extra-large-15-kg-diapers.json",
+        "category": "Extra Large 15 Kg Diapers",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "eye.json",
+        "category": "Eye",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "face-masks-safety.json",
+        "category": "Face Masks & Safety",
+        "department": "Glow"
+    },
+    {
+        "json_file": "face-wash-mask.json",
+        "category": "Face Wash Mask",
+        "department": "Glow"
+    },
+    {
+        "json_file": "face-wash-scrub.json",
+        "category": "Face Wash Scrub",
+        "department": "Glow"
+    },
+    {
+        "json_file": "family-planning.json",
+        "category": "Family Planning",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "fashion-lifestyle.json",
+        "category": "Fashion & Lifestyle",
+        "department": "Fashion"
+    },
+    {
+        "json_file": "feeders.json",
+        "category": "Feeders",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "female-deo.json",
+        "category": "Female Deo",
+        "department": "Glow"
+    },
+    {
+        "json_file": "female-moisturizer.json",
+        "category": "Female Moisturizer",
+        "department": "Glow"
+    },
+    {
+        "json_file": "female-shampoo.json",
+        "category": "Female Shampoo",
+        "department": "Glow"
+    },
+    {
+        "json_file": "feminine-care.json",
+        "category": "Feminine Care",
+        "department": "Glow"
+    },
+    {
+        "json_file": "fever.json",
+        "category": "Fever",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "file-folder.json",
+        "category": "File Folder",
+        "department": "Home+"
+    },
+    {
+        "json_file": "flour.json",
+        "category": "Flour",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "food-supplements.json",
+        "category": "Food Supplements",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "formula.json",
+        "category": "Formula",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "fresh-fruit.json",
+        "category": "Fresh Fruit",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "fresh-vegetable.json",
+        "category": "Fresh Vegetable",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "frozen-fish.json",
+        "category": "Frozen Fish",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "gardening.json",
+        "category": "Gardening",
+        "department": "Home+"
+    },
+    {
+        "json_file": "ghee.json",
+        "category": "Ghee",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "glue-tapes.json",
+        "category": "Glue Tapes",
+        "department": "Home+"
+    },
+    {
+        "json_file": "hair-care.json",
+        "category": "Hair Care",
+        "department": "Glow"
+    },
+    {
+        "json_file": "hair-color.json",
+        "category": "Hair Color",
+        "department": "GLow"
+    },
+    {
+        "json_file": "hair-condition.json",
+        "category": "Hair Condition",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "halal-marshmallows.json",
+        "category": "Halal Marshmallows",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "hand-sanitizer.json",
+        "category": "Hand Sanitizer",
+        "department": "Home+"
+    },
+    {
+        "json_file": "handwash-handrub.json",
+        "category": "Handwash & Handrub",
+        "department": "Home+"
+    },
+    {
+        "json_file": "heart-disease.json",
+        "category": "Heart Disease",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "herbal-products.json",
+        "category": "Herbal Products",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "honey.json",
+        "category": "Honey",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "infection.json",
+        "category": "Infection",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "jams-jellies.json",
+        "category": "Jams Jellies",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "juice.json",
+        "category": "Juice",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "keto-food.json",
+        "category": "Keto Food",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "kitchen-accessories.json",
+        "category": "Kitchen Accessories",
+        "department": "Home+"
+    },
+    {
+        "json_file": "kitchen-appliances.json",
+        "category": "Kitchen Appliances",
+        "department": "Home+"
+    },
+    {
+        "json_file": "large-2.json",
+        "category": "Large (10-16 kg) Diapers",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "lights.json",
+        "category": "Lights",
+        "department": "Home+"
+    },
+    {
+        "json_file": "lipsticks-lip-balm.json",
+        "category": "Lipsticks Lip Balm",
+        "department": "Glow"
+    },
+    {
+        "json_file": "liquid-handwash.json",
+        "category": "Liquid Handwash",
+        "department": "Home+"
+    },
+    {
+        "json_file": "liquid-uht-milk.json",
+        "category": "Liquid & UHT Milk",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "local-breakfast.json",
+        "category": "Local Breakfast",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "local-snacks.json",
+        "category": "Local Snacks",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "lotion-cream.json",
+        "category": "Lotion Cream",
+        "department": "Glow"
+    },
+    {
+        "json_file": "lotions.json",
+        "category": "Lotions",
+        "department": "Glow"
+    },
+    {
+        "json_file": "masks-cleansers.json",
+        "category": "Masks Cleansers",
+        "department": "Glow"
+    },
+    {
+        "json_file": "maternity-care.json",
+        "category": "Maternity Care",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "measuring.json",
+        "category": "Measuring",
+        "department": "Home+"
+    },
+    {
+        "json_file": "meat-new.json",
+        "category": "Meat",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "medical-accessories.json",
+        "category": "Medical Accessories",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "medical-devices-2.json",
+        "category": "Medical Devices",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "medical-devices.json",
+        "category": "Medical Devices",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "medium-2.json",
+        "category": "Medium (5-13 kg) Diapers",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "mens-facewash.json",
+        "category": "Mens Facewash",
+        "department": "Glow"
+    },
+    {
+        "json_file": "mens-hair-care.json",
+        "category": "Mens Hair Care",
+        "department": "Glow"
+    },
+    {
+        "json_file": "mens-perfume.json",
+        "category": "Mens Perfume",
+        "department": "Glow"
+    },
+    {
+        "json_file": "mens-shower-gels.json",
+        "category": "Mens Shower Gels",
+        "department": "Glow"
+    },
+    {
+        "json_file": "mens-soaps.json",
+        "category": "Mens Soaps",
+        "department": "Glow"
+    },
+    {
+        "json_file": "milk-juice-drinks.json",
+        "category": "Milk Juice & Drinks",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "miscellaneous.json",
+        "category": "Miscellaneous",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "mouthwash-others.json",
+        "category": "Mouthwash & Others",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "mouthwashes.json",
+        "category": "Mouthwash & Others",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "neurological-conditions.json",
+        "category": "Neurological Conditions",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "newborn-2.json",
+        "category": "Newborn (2-5 kg) Diapers",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "newborn-essentials.json",
+        "category": "Newborn Essentials",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "noodles.json",
+        "category": "Noodles",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "nuts-dried-fruits.json",
+        "category": "Nuts & Dried Fruits",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "oil.json",
+        "category": "Oil",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "organizing-accessories.json",
+        "category": "Organizing Accessories",
+        "department": "Home+"
+    },
+    {
+        "json_file": "other-sauces.json",
+        "category": "Other Sauces",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "pain.json",
+        "category": "Pain",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "pasta-macaroni.json",
+        "category": "Pasta Macaroni",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "pencils.json",
+        "category": "Pencils",
+        "department": "Home+"
+    },
+    {
+        "json_file": "pens.json",
+        "category": "Pens",
+        "department": "Home+"
+    },
+    {
+        "json_file": "petroleum-jelly.json",
+        "category": "Petroleum Jelly",
+        "department": "Glow"
+    },
+    {
+        "json_file": "pickles.json",
+        "category": "Pickles",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "plain-biscuits.json",
+        "category": "Plain Biscuits",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "popcorn-nuts.json",
+        "category": "Popcorn Nuts",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "powder-milk.json",
+        "category": "Powder Milk",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "powder-mixes.json",
+        "category": "Powder Mixes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "premium-ingredients.json",
+        "category": "Premium Ingredients",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "premium-perishables.json",
+        "category": "Premium Perishables",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "printing-paper.json",
+        "category": "Printing Paper",
+        "department": "Home+"
+    },
+    {
+        "json_file": "rack-organizer.json",
+        "category": "Rack Organizer",
+        "department": "Home+"
+    },
+    {
+        "json_file": "razors-blades.json",
+        "category": "Razors Blades",
+        "department": "Glow"
+    },
+    {
+        "json_file": "ready-mix.json",
+        "category": "Ready Mix",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "rices.json",
+        "category": "Rices",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "salad-dressing.json",
+        "category": "Salad Dressing",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "salt-sugar.json",
+        "category": "Salt Sugar",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "salted-biscuits.json",
+        "category": "Salted Biscuits",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "school-supplies.json",
+        "category": "School Supplies",
+        "department": "Home+"
+    },
+    {
+        "json_file": "serum-oil-toners.json",
+        "category": "Serum Oil Toners",
+        "department": "Glow"
+    },
+    {
+        "json_file": "shampoo.json",
+        "category": "Shampoo",
+        "department": "Glow"
+    },
+    {
+        "json_file": "shaving-needs.json",
+        "category": "Shaving Needs",
+        "department": "Glow"
+    },
+    {
+        "json_file": "shemai-suji.json",
+        "category": "Shemai Suji",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "skin-care-dermatology.json",
+        "category": "Skin Care Dermatology",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "skin.json",
+        "category": "Skin",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "small-2.json",
+        "category": "Small 2",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "soaps.json",
+        "category": "Soaps",
+        "department": "Glow"
+    },
+    {
+        "json_file": "soft-drinks.json",
+        "category": "Soft Drinks",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "soups.json",
+        "category": "Soups",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "spices.json",
+        "category": "Spices",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "spreads-syrups.json",
+        "category": "Spreads Syrups",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "stapler-punch.json",
+        "category": "Stapler Punch",
+        "department": "Home+"
+    },
+    {
+        "json_file": "supplements.json",
+        "category": "Supplements",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "talcom-powder.json",
+        "category": "Talcom Powder",
+        "department": "Glow"
+    },
+    {
+        "json_file": "tea-coffee-2.json",
+        "category": "Tea & Coffee",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "tissue-wipes.json",
+        "category": "Tissue & Wipes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "toast-biscuits.json",
+        "category": "Toast Biscuits",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "toddler-food.json",
+        "category": "Toddler Food",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "tofu-meat-alternatives.json",
+        "category": "Tofu & Meat Alternatives",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "tomato-sauces.json",
+        "category": "Tomato Sauces",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "tools-hardware.json",
+        "category": "Tools & Hardware",
+        "department": "Home+"
+    },
+    {
+        "json_file": "toothbrushes.json",
+        "category": "Toothbrushes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "toothpastes.json",
+        "category": "Toothpastes",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "toys-sports.json",
+        "category": "Toys & Sports",
+        "department": "PlayZone"
+    },
+    {
+        "json_file": "vehicle-essentials.json",
+        "category": "Vehicle Essentials",
+        "department": "Home+"
+    },
+    {
+        "json_file": "vitamins-2.json",
+        "category": "Vitamins",
+        "department": "Pharmacy"
+    },
+    {
+        "json_file": "wafers.json",
+        "category": "Wafers",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "water.json",
+        "category": "Water",
+        "department": "Grocery"
+    },
+    {
+        "json_file": "womens-perfume.json",
+        "category": "Womens Perfume",
+        "department": "Glow"
+    },
+    {
+        "json_file": "womens-shower-gel.json",
+        "category": "Womens Shower Gel",
+        "department": "Glow"
+    },
+    {
+        "json_file": "womens-soaps.json",
+        "category": "Womens Soaps",
+        "department": "Glow"
+    },
+    {
+        "json_file": "yogurt.json",
+        "category": "Yogurt",
+        "department": "Grocery"
+    }
+]

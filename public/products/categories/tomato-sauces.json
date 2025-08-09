@@ -1,0 +1,439 @@
+[
+    {
+        "name": "Ruchi Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "120",
+        "old_price": "120",
+        "description": "Ruchi Hot Tomato Sauce is an amazing taste enhancer of any daily snack. Its seasoned \"Ruchi\" secreted recipe and ingredients together give a real taste of fresh ingredients.\nRuchi Hot Tomato Sauce is an amazing taste enhancer of any daily snack. Its seasoned \"Ruchi\" secreted recipe and ingredients together give a real taste of fresh ingredients.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "350 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/ruchi-hot-tomato-sauce-350-gm.webp",
+                "img": "/products/img/tomato-sauces/ruchi-hot-tomato-sauce-350-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "320",
+        "old_price": "320",
+        "description": "Pran Tomato Sauce is made from fresh tomatoes, offering a tangy and flavorful condiment for your meals. Ideal for use in a variety of dishes, from pasta to dips.\r\nPran Tomato Sauce is made from fresh tomatoes, offering a tangy and flavorful condiment for your meals. Ideal for use in a variety of dishes, from pasta to dips.\r\n",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 kg"
+                },
+                "thumb": "/products/img/tomato-sauces/pran-tomato-sauce-1-kg.webp",
+                "img": "/products/img/tomato-sauces/pran-tomato-sauce-1-kg.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ruchi Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "120",
+        "old_price": "120",
+        "description": "Ruchi Tomato Ketchup is an amazing taste enhancer of any daily snack. Its seasoned secreted \"Ruchi\" recipe and ingredients together give a real taste of fresh ingredients. \nRuchi Tomato Ketchup is an amazing taste enhancer of any daily snack. Its seasoned secreted \"Ruchi\" recipe and ingredients together give a real taste of fresh ingredients. ",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "350 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/ruchi-tomato-ketchup-350-gm.webp",
+                "img": "/products/img/tomato-sauces/ruchi-tomato-ketchup-350-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Best's Tomato Ketchup",
+        "entry": "Product of Malaysia",
+        "price": "182",
+        "old_price": "182",
+        "description": "Best's Tomato Ketchup is a condiment made from high-quality tomatoes and carefully selected spices to give it a unique and delicious taste. This ketchup comes in a convenient 330 ml bottle and is perfect for adding flavor to burgers, hot dogs, fries, and other snacks.\nBest's Tomato Ketchup is a condiment made from high-quality tomatoes and carefully selected spices to give it a unique and delicious taste. This ketchup comes in a convenient 330 ml bottle and is perfect for adding flavor to burgers, hot dogs, fries, and other snacks.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "330 ml"
+                },
+                "thumb": "/products/img/tomato-sauces/bests-tomato-ketchup-330-ml.webp",
+                "img": "/products/img/tomato-sauces/bests-tomato-ketchup-330-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "125",
+        "old_price": "125",
+        "description": "Pran Tomato Ketchup is a tangy and flavorful addition to your meals. Made from fresh tomatoes and selected spices, it enhances the taste of your favorite snacks, fries, burgers, and more.\r\nPran Tomato Ketchup is a tangy and flavorful addition to your meals. Made from fresh tomatoes and selected spices, it enhances the taste of your favorite snacks, fries, burgers, and more.\r\n",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-4",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/pran-tomato-ketchup-340-gm.webp",
+                "img": "/products/img/tomato-sauces/pran-tomato-ketchup-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Fargo Sweet Chili Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "110",
+        "old_price": "110",
+        "description": "Fargo’s Sweet and Hot Chili Sauce to enhance the flavor of your favorite fried snacks! This yummy sauce has a sweet and spicy kick to it that works as a perfect addition to your snacks while delivering the benefits of Vitamin A, Vitamin C, folate, magnesium, and potassium that help prevent diabetes, obesity, inflammation, and indigestion.\nFargo’s Sweet and Hot Chili Sauce to enhance the flavor of your favorite fried snacks! This yummy sauce has a sweet and spicy kick to it that works as a perfect addition to your snacks while delivering the benefits of Vitamin A, Vitamin C, folate, magnesium, and potassium that help prevent diabetes, obesity, inflammation, and indigestion.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-5",
+        "variants": [
+            {
+                "color": {
+                    "name": "335 ml"
+                },
+                "thumb": "/products/img/tomato-sauces/fargo-sweet-chili-sauce-335-ml.webp",
+                "img": "/products/img/tomato-sauces/fargo-sweet-chili-sauce-335-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Fargo Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "99",
+        "old_price": "99",
+        "description": "Enjoy Fargo's deliciously thick & rich tomato sauce with the goodness of 100% natural tomatoes, with extracts of spice, onion, and garlic for mouth-watering savor to elevate your snacks! To make your dishes wholesome, tasty, and healthy, Fargo's Tomato Sauce offers antioxidant properties and minerals while avoiding artificial colors and flavors.\r  \nEnjoy Fargo's deliciously thick & rich tomato sauce with the goodness of 100% natural tomatoes, with extracts of spice, onion, and garlic for mouth-watering savor to elevate your snacks! To make your dishes wholesome, tasty, and healthy, Fargo's Tomato Sauce offers antioxidant properties and minerals while avoiding artificial colors and flavors.\r\n \n \n",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-6",
+        "variants": [
+            {
+                "color": {
+                    "name": "325 ml"
+                },
+                "thumb": "/products/img/tomato-sauces/fargo-tomato-sauce-325-ml.webp",
+                "img": "/products/img/tomato-sauces/fargo-tomato-sauce-325-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Fargo Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "750",
+        "old_price": "750",
+        "description": "Enjoy Fargo's deliciously thick & rich tomato sauce with the goodness of 100% natural tomatoes, with extracts of spice, onion, and garlic for mouth-watering savor to elevate your snacks! To make your dishes wholesome, tasty, and healthy, Fargo's Tomato Sauce offers antioxidant properties and minerals while avoiding artificial colors and flavors.\nEnjoy Fargo's deliciously thick & rich tomato sauce with the goodness of 100% natural tomatoes, with extracts of spice, onion, and garlic for mouth-watering savor to elevate your snacks! To make your dishes wholesome, tasty, and healthy, Fargo's Tomato Sauce offers antioxidant properties and minerals while avoiding artificial colors and flavors.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-7",
+        "variants": [
+            {
+                "color": {
+                    "name": "4.5 kg"
+                },
+                "thumb": "/products/img/tomato-sauces/fargo-tomato-sauce-45-kg.webp",
+                "img": "/products/img/tomato-sauces/fargo-tomato-sauce-45-kg.webp"
+            }
+        ]
+    },
+    {
+        "name": "Saad Sweet Chilli Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "130",
+        "old_price": "130",
+        "description": "Saad Sweet Chilli Sauce is commonly made with red chili peppers, garlic, and a sweetening ingredient such as fruit refined sugar, or honey. It makes a perfect texture and the best combination of sweet & chili flavor in a sauce. It turns your snacks into a unique taste.\nSaad Sweet Chilli Sauce is commonly made with red chili peppers, garlic, and a sweetening ingredient such as fruit refined sugar, or honey. It makes a perfect texture and the best combination of sweet & chili flavor in a sauce. It turns your snacks into a unique taste.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-8",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/saad-sweet-chilli-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/saad-sweet-chilli-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Saad Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "120",
+        "old_price": "120",
+        "description": "SAAD tomato sauce is a concentrated product prepared from whole tomatoes. Tomato skins may be scalded and peeled according to texture. Its rich flavor, high water content, soft flesh that breaks down easily, and the right composition to thicken into a sauce. It makes your snack time testier.\nSAAD tomato sauce is a concentrated product prepared from whole tomatoes. Tomato skins may be scalded and peeled according to texture. Its rich flavor, high water content, soft flesh that breaks down easily, and the right composition to thicken into a sauce. It makes your snack time testier.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-9",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/saad-hot-tomato-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/saad-hot-tomato-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Shezan Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "115",
+        "old_price": "115",
+        "description": "Shezan Hot Tomato Sauce's taste of it is mind-blowing. Its original flavor of it will make your tongue go roll all over your lips. Shezan Hot Tomato Sauce is completely free from saturated fat and cholesterol.\nShezan Hot Tomato Sauce's taste of it is mind-blowing. Its original flavor of it will make your tongue go roll all over your lips. Shezan Hot Tomato Sauce is completely free from saturated fat and cholesterol.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-10",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/shezan-hot-tomato-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/shezan-hot-tomato-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "125",
+        "old_price": "125",
+        "description": "Pran hot tomato sauce is made from fresh tomato, chili, sugar, citric acid (E-330), and sodium benzoate (211). It's tasty and healthy. Pran Hot Tomato Sauce can be used in various ways. \nPran hot tomato sauce is made from fresh tomato, chili, sugar, citric acid (E-330), and sodium benzoate (211). It's tasty and healthy. Pran Hot Tomato Sauce can be used in various ways. ",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-11",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/pran-tomato-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/pran-tomato-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pran Hot Tomato Sauce Mini 8 gm",
+        "entry": "Product of Bangladesh",
+        "price": "30",
+        "old_price": "30",
+        "description": "Add a zesty kick to your food with Pran Hot Tomato Sauce. Conveniently packed in 8 gm mini pouches, this hot sauce is perfect for on-the-go and adds a spicy touch to any dish.\r\nAdd a zesty kick to your food with Pran Hot Tomato Sauce. Conveniently packed in 8 gm mini pouches, this hot sauce is perfect for on-the-go and adds a spicy touch to any dish.\r\n",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-12",
+        "variants": [
+            {
+                "color": {
+                    "name": "10 pcs"
+                },
+                "thumb": "/products/img/tomato-sauces/pran-hot-tomato-sauce-mini-8-gm-10-pcs.webp",
+                "img": "/products/img/tomato-sauces/pran-hot-tomato-sauce-mini-8-gm-10-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Heinz Tomato Ketchup",
+        "entry": "Product of Thailand",
+        "price": "175",
+        "old_price": "175",
+        "description": "",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-13",
+        "variants": [
+            {
+                "color": {
+                    "name": "300 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/heinz-tomato-ketchup-300-gm.webp",
+                "img": "/products/img/tomato-sauces/heinz-tomato-ketchup-300-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Saad Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "150",
+        "old_price": "150",
+        "description": "SAAD tomato sauce is a concentrated product prepared from whole tomatoes. Tomato skins may be scalded and peeled according to texture. Its rich flavor, high water content, soft flesh that breaks down easily, and the right composition to thicken into a sauce. It makes your snack time testier.\nSAAD tomato sauce is a concentrated product prepared from whole tomatoes. Tomato skins may be scalded and peeled according to texture. Its rich flavor, high water content, soft flesh that breaks down easily, and the right composition to thicken into a sauce. It makes your snack time testier.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-14",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/saad-hot-tomato-sauce-500-gm.webp",
+                "img": "/products/img/tomato-sauces/saad-hot-tomato-sauce-500-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Shezan Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "300",
+        "old_price": "300",
+        "description": "Shezan tomato ketchup is made from fresh tomatoes following a special recipe. its spicy tomato flavor makes snacks and food tastier and mouthwatering.\nShezan tomato ketchup is made from fresh tomatoes following a special recipe. its spicy tomato flavor makes snacks and food tastier and mouthwatering.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-15",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 kg"
+                },
+                "thumb": "/products/img/tomato-sauces/shezan-tomato-ketchup-1-kg.webp",
+                "img": "/products/img/tomato-sauces/shezan-tomato-ketchup-1-kg.webp"
+            }
+        ]
+    },
+    {
+        "name": "Saad Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "270",
+        "old_price": "270",
+        "description": "SAAD tomato sauce is the concentrated product prepared from the whole tomatoes.Tomato skins may be scalded and peeled according to texture.Its rich flavour,high water content ,soft flesh which breaks down easily ,and the right composition to thicken into a sauce.Its make your snacks time testier.\nSAAD tomato sauce is the concentrated product prepared from the whole tomatoes.Tomato skins may be scalded and peeled according to texture.Its rich flavour,high water content ,soft flesh which breaks down easily ,and the right composition to thicken into a sauce.Its make your snacks time testier.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-16",
+        "variants": [
+            {
+                "color": {
+                    "name": "1 kg"
+                },
+                "thumb": "/products/img/tomato-sauces/saad-hot-tomato-sauce-1-kg.webp",
+                "img": "/products/img/tomato-sauces/saad-hot-tomato-sauce-1-kg.webp"
+            }
+        ]
+    },
+    {
+        "name": "Shezan Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Shezan Tomato Ketchup (340 gm) is a delightful blend of natural sweetness and tanginess, perfect for enhancing your meals: Made from ripe tomatoes, this ketchup captures the true essence of freshness. Its rich tomato flavor adds depth to sandwiches, fries, and more, whether dipping crispy fries, drizzling it over burgers, or mixing it into sauces, Shezan Tomato Ketchup complements a variety of dishes.\nShezan Tomato Ketchup (340 gm) is a delightful blend of natural sweetness and tanginess, perfect for enhancing your meals: Made from ripe tomatoes, this ketchup captures the true essence of freshness. Its rich tomato flavor adds depth to sandwiches, fries, and more, whether dipping crispy fries, drizzling it over burgers, or mixing it into sauces, Shezan Tomato Ketchup complements a variety of dishes.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-17",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/shezan-tomato-ketchup-340-gm.webp",
+                "img": "/products/img/tomato-sauces/shezan-tomato-ketchup-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Kishwan Hot Tomato Sauce",
+        "entry": "Product of India",
+        "price": "130",
+        "old_price": "130",
+        "description": "This product is manufactured/packaged in India and its raw materials are collected from India.\r Kishwan Hot Tomato Sauce is a fiery and flavorful condiment that combines the tangy goodness of ripe tomatoes with a spicy kick. This 340 gm bottle of hot tomato sauce is a versatile and zesty addition to your pantry, perfect for those who crave the bold and pungent taste of spicy tomato sauces.\nThis product is manufactured/packaged in India and its raw materials are collected from India.\r\n \nKishwan Hot Tomato Sauce is a fiery and flavorful condiment that combines the tangy goodness of ripe tomatoes with a spicy kick. This 340 gm bottle of hot tomato sauce is a versatile and zesty addition to your pantry, perfect for those who crave the bold and pungent taste of spicy tomato sauces.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-18",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/kishwan-hot-tomato-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/kishwan-hot-tomato-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "King Bell Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "170",
+        "old_price": "170",
+        "description": "",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-19",
+        "variants": [
+            {
+                "color": {
+                    "name": "300 ml"
+                },
+                "thumb": "/products/img/tomato-sauces/king-bell-tomato-ketchup-300-ml.webp",
+                "img": "/products/img/tomato-sauces/king-bell-tomato-ketchup-300-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sajeeb Hot Tomato Sauce",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Sajeeb Hot Tomato Sauce brings a fiery twist to your favorite tomato sauce, adding just the right amount of heat to your meals. Perfect for dipping or adding to dishes like pasta and pizza. A versatile condiment that enhances flavor with a spicy kick.\nSajeeb Hot Tomato Sauce brings a fiery twist to your favorite tomato sauce, adding just the right amount of heat to your meals. Perfect for dipping or adding to dishes like pasta and pizza. A versatile condiment that enhances flavor with a spicy kick.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-20",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/sajeeb-hot-tomato-sauce-340-gm.webp",
+                "img": "/products/img/tomato-sauces/sajeeb-hot-tomato-sauce-340-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Best's Tomato Puree",
+        "entry": "Product of Malaysia",
+        "price": "174",
+        "old_price": "174",
+        "description": "Best's Tomato Puree is a premium quality product made from fresh and ripe tomatoes that are carefully selected and processed to retain their natural flavor and nutrients. The puree comes in a convenient 400 gm can, making it easy to use and store.\nBest's Tomato Puree is a premium quality product made from fresh and ripe tomatoes that are carefully selected and processed to retain their natural flavor and nutrients. The puree comes in a convenient 400 gm can, making it easy to use and store.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-21",
+        "variants": [
+            {
+                "color": {
+                    "name": "400 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/bests-tomato-puree-400-gm.webp",
+                "img": "/products/img/tomato-sauces/bests-tomato-puree-400-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "ACME Tomato Ketchup",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "ACME Tomato Ketchup is a flavor-packed condiment that adds zing to your meals.\rACME Tomato Ketchup is made from ripe, juicy tomatoes, capturing the essence of sun-kissed goodness.\r Drizzle it over french fries, hamburgers, and hot dogs, or use it as a dipping sauce for chicken tenders, tater tots, and more.\rPack Size: Each bottle contains 340 gm of tangy delight.\rPresented in a convenient glass bottle, preserving freshness and flavor.\nACME Tomato Ketchup is a flavor-packed condiment that adds zing to your meals.\r\nACME Tomato Ketchup is made from ripe, juicy tomatoes, capturing the essence of sun-kissed goodness.\r\n Drizzle it over french fries, hamburgers, and hot dogs, or use it as a dipping sauce for chicken tenders, tater tots, and more.\r\nPack Size: Each bottle contains 340 gm of tangy delight.\r\nPresented in a convenient glass bottle, preserving freshness and flavor.",
+        "department": "Grocery",
+        "category": "Tomato Sauces",
+        "ref": "260225-22",
+        "variants": [
+            {
+                "color": {
+                    "name": "340 gm"
+                },
+                "thumb": "/products/img/tomato-sauces/acme-tomato-ketchup-340-gm.webp",
+                "img": "/products/img/tomato-sauces/acme-tomato-ketchup-340-gm.webp"
+            }
+        ]
+    }
+]

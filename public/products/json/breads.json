@@ -1,0 +1,82 @@
+[
+    {
+        "name": null,
+        "color": null,
+        "entry": null,
+        "price": null,
+        "old_price": null,
+        "description": ""
+    },
+    {
+        "name": "Milk Bread",
+        "color": "300 gm",
+        "entry": "Product of Bangladesh",
+        "price": "120",
+        "old_price": "120",
+        "description": "Qty: 7-8 pcs\r A fluffy white bread with a slightly sweet & creamy taste. Perfect for children and those who prefer rich and tasty sandwiches. Definitely the softest bread in town.\nQty: 7-8 pcs\r\n \nA fluffy white bread with a slightly sweet & creamy taste. Perfect for children and those who prefer rich and tasty sandwiches. Definitely the softest bread in town.",
+        "img": "/products/img/breads/milk-bread-300-gm.webp"
+    },
+    {
+        "name": "Brown Bread",
+        "color": "300 gm",
+        "entry": "Product of Bangladesh",
+        "price": "149",
+        "old_price": "149",
+        "description": "Brown bread is bread made with significant amounts of whole grain flour, usually wheat, and sometimes dark-coloured ingredients such as molasses or coffee.\nBrown bread is bread made with significant amounts of whole grain flour, usually wheat, and sometimes dark-coloured ingredients such as molasses or coffee.",
+        "img": "/products/img/breads/brown-bread-300-gm.webp"
+    },
+    {
+        "name": "Burger Bun",
+        "color": "2 pcs",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "weight: 100 gm\r Make your burgers more delicious with our soft and fluffy Burger Buns. Perfectly baked to give you the ideal texture and taste, these buns are great for creating homemade burgers, sandwiches, or even breakfast treats.\r Key Features:\r Soft & Fresh: Light, airy texture with a rich, fresh flavor.\rPerfect Size: Ideal for crafting delicious burgers and sandwiches.\rReady to Use: Pre-sliced for convenience and ease of use.\rVersatile: Perfect for homemade burgers, sliders, and creative snacks.\rPack of 2: Just the right quantity for quick meals or small gatherings.\rUpgrade your burger game with our Burger Buns—order now and enjoy quality in every bite!\nweight: 100 gm\r\n \nMake your burgers more delicious with our soft and fluffy Burger Buns. Perfectly baked to give you the ideal texture and taste, these buns are great for creating homemade burgers, sandwiches, or even breakfast treats.\r\n \nKey Features:\r\n \nSoft & Fresh: Light, airy texture with a rich, fresh flavor.\r\nPerfect Size: Ideal for crafting delicious burgers and sandwiches.\r\nReady to Use: Pre-sliced for convenience and ease of use.\r\nVersatile: Perfect for homemade burgers, sliders, and creative snacks.\r\nPack of 2: Just the right quantity for quick meals or small gatherings.\r\nUpgrade your burger game with our Burger Buns—order now and enjoy quality in every bite!",
+        "img": "/products/img/breads/burger-bun-2-pcs.webp"
+    },
+    {
+        "name": "Burger Bun",
+        "color": "4 pcs",
+        "entry": "Product of Bangladesh",
+        "price": "90",
+        "old_price": "90",
+        "description": "Weight: 240 gm\r Make your burgers more delicious with our soft and fluffy Burger Buns. Perfectly baked to give you the ideal texture and taste, these buns are great for creating homemade burgers, sandwiches, or even breakfast treats.\r Key Features:\r Soft & Fresh: Light, airy texture with a rich, fresh flavor.\rPerfect Size: Ideal for crafting delicious burgers and sandwiches.\rReady to Use: Pre-sliced for convenience and ease of use.\rVersatile: Perfect for homemade burgers, sliders, and creative snacks.\rPack of 4: Just the right quantity for quick meals or small gatherings.\rUpgrade your burger game with our Burger Buns—order now and enjoy quality in every bite!\nWeight: 240 gm\r\n \nMake your burgers more delicious with our soft and fluffy Burger Buns. Perfectly baked to give you the ideal texture and taste, these buns are great for creating homemade burgers, sandwiches, or even breakfast treats.\r\n \nKey Features:\r\n \nSoft & Fresh: Light, airy texture with a rich, fresh flavor.\r\nPerfect Size: Ideal for crafting delicious burgers and sandwiches.\r\nReady to Use: Pre-sliced for convenience and ease of use.\r\nVersatile: Perfect for homemade burgers, sliders, and creative snacks.\r\nPack of 4: Just the right quantity for quick meals or small gatherings.\r\nUpgrade your burger game with our Burger Buns—order now and enjoy quality in every bite!",
+        "img": "/products/img/breads/burger-bun-4-pcs.webp"
+    },
+    {
+        "name": "Bread Pit Sugar Free Bread Special",
+        "color": "400 gm",
+        "entry": "Product of Bangladesh",
+        "price": "95",
+        "old_price": "95",
+        "description": "This 400 gm loaf of sugar-free bread is a smart, delicious choice for those who prioritize health without compromising taste.\r Product Features:\r1. Low Starch, High Protein: Specially formulated for a balanced nutritional profile, perfect for those monitoring carbohydrate intake.\r2. No Added Sugar: Completely free from added sugars, making it a great choice for individuals managing diabetes or following a low-sugar diet.\r3. Health-Friendly: Designed with health-conscious consumers in mind, offering a wholesome alternative to traditional bread.\r Key Benefits:\r1. Supports healthy blood sugar levels and weight management.\r2. Provides a nutritious option for breakfast, sandwiches, or snacks.\r3. Suitable for individuals with dietary restrictions, including diabetics and those on high-protein or low-carb diets.\nThis 400 gm loaf of sugar-free bread is a smart, delicious choice for those who prioritize health without compromising taste.\r\n \nProduct Features:\r\n1. Low Starch, High Protein: Specially formulated for a balanced nutritional profile, perfect for those monitoring carbohydrate intake.\r\n2. No Added Sugar: Completely free from added sugars, making it a great choice for individuals managing diabetes or following a low-sugar diet.\r\n3. Health-Friendly: Designed with health-conscious consumers in mind, offering a wholesome alternative to traditional bread.\r\n \nKey Benefits:\r\n1. Supports healthy blood sugar levels and weight management.\r\n2. Provides a nutritious option for breakfast, sandwiches, or snacks.\r\n3. Suitable for individuals with dietary restrictions, including diabetics and those on high-protein or low-carb diets.",
+        "img": "/products/img/breads/bread-pit-sugar-free-bread-special-400-gm.webp"
+    },
+    {
+        "name": "Hot Dog Roll",
+        "color": "200 gm",
+        "entry": "Product of Bangladesh",
+        "price": "90",
+        "old_price": "90",
+        "description": "Quantity - 4 pcs\r This 200 gm pack of Hot Dog Rolls delivers softness and flavor, making it the perfect choice for crafting delicious and satisfying hot dog creations.\r Product Features:\r1. Size and Shape: Each bun is 6 inches long, perfectly sized for making classic hot dogs.\r2. Soft and Fluffy Texture: Designed to hold your favorite fillings while remaining tender and easy to bite into.\r3. Freshly Baked: Made with high-quality ingredients to ensure freshness and great taste.\r Key Benefits:\r1. Ideal for preparing delicious hot dogs, sausages, or creative stuffed rolls.\r2. Versatile and convenient for quick meals, snacks, or party platters.\r3. Complements a variety of condiments, toppings, and fillings for endless customization.\nQuantity - 4 pcs\r\n \nThis 200 gm pack of Hot Dog Rolls delivers softness and flavor, making it the perfect choice for crafting delicious and satisfying hot dog creations.\r\n \nProduct Features:\r\n1. Size and Shape: Each bun is 6 inches long, perfectly sized for making classic hot dogs.\r\n2. Soft and Fluffy Texture: Designed to hold your favorite fillings while remaining tender and easy to bite into.\r\n3. Freshly Baked: Made with high-quality ingredients to ensure freshness and great taste.\r\n \nKey Benefits:\r\n1. Ideal for preparing delicious hot dogs, sausages, or creative stuffed rolls.\r\n2. Versatile and convenient for quick meals, snacks, or party platters.\r\n3. Complements a variety of condiments, toppings, and fillings for endless customization.",
+        "img": "/products/img/breads/hot-dog-roll-200-gm.webp"
+    },
+    {
+        "name": "Bread Pit Flat Bread (Naan Bread) 250 gm",
+        "color": "4 pcs",
+        "entry": "Product of Bangladesh",
+        "price": "85",
+        "old_price": "85",
+        "description": "Naan Bread is specially designed for their customers with such quality the customer will be amazed with . Enough amount of ingredients makes it tastier .\nNaan Bread is specially designed for their customers with such quality the customer will be amazed with . Enough amount of ingredients makes it tastier .",
+        "img": "/products/img/breads/bread-pit-flat-bread-naan-bread-250-gm-4-pcs.webp"
+    },
+    {
+        "name": "Bread Pit Multigrain Bread",
+        "color": "300 gm",
+        "entry": "Product of Bangladesh",
+        "price": "149",
+        "old_price": "149",
+        "description": "Super seeded multigrain bread. Has a delicious taste with all the health benefits. Contains whole grain flour and mixed seeds including sunflower, pumpkin and sesame seeds and flaxseed. Has high dietary fibre which can help to reduce cholesterol,  blood pressure and aid digestion.\nSuper seeded multigrain bread. Has a delicious taste with all the health benefits. Contains whole grain flour and mixed seeds including sunflower, pumpkin and sesame seeds and flaxseed. Has high dietary fibre which can help to reduce cholesterol,  blood pressure and aid digestion.",
+        "img": "/products/img/breads/bread-pit-multigrain-bread-300-gm.webp"
+    }
+]

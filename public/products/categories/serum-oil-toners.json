@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Kd Rosemary Facial Oil",
+        "entry": "Product of Bangladesh",
+        "price": "240",
+        "old_price": "240",
+        "description": "BENEFITS• Treats acne and prone skin.\r• Lightens dark spots & blemishes as well. Improves skin complexion.\r• Slowing down the aging process.\r• Nourish your skin and provide a natural rosy glow to your face.\rFACIAL OIL\rWith its powerful disinfectant and antimicrobial properties, the herb can help treat acne and dry skin conditions. When massaged into the face, Rosemary Oil can help lighten dark spots and blemishes on the skin resulting in an improved skin complexion.\rINGREDIENTS\rRicinus communis (Castor) oil, Olea europaea (Olive) Oil, Rosmarinus officinalis (Rosemary) Oil, Persea gratissima (Avocado) Oil.\nBENEFITS• Treats acne and prone skin.\r\n• Lightens dark spots & blemishes as well. Improves skin complexion.\r\n• Slowing down the aging process.\r\n• Nourish your skin and provide a natural rosy glow to your face.\r\nFACIAL OIL\r\nWith its powerful disinfectant and antimicrobial properties, the herb can help treat acne and dry skin conditions. When massaged into the face, Rosemary Oil can help lighten dark spots and blemishes on the skin resulting in an improved skin complexion.\r\nINGREDIENTS\r\nRicinus communis (Castor) oil, Olea europaea (Olive) Oil, Rosmarinus officinalis (Rosemary) Oil, Persea gratissima (Avocado) Oil.",
+        "department": "Glow",
+        "category": "Serum Oil Toners",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "50 ml"
+                },
+                "thumb": "/products/img/serum-oil-toners/kd-rosemary-facial-oil-50-ml.webp",
+                "img": "/products/img/serum-oil-toners/kd-rosemary-facial-oil-50-ml.webp"
+            }
+        ]
+    },
+    {
+        "name": "White Tone Face Powder",
+        "entry": "Product of India",
+        "price": "260",
+        "old_price": "260",
+        "description": "This product is manufactured/packaged in India and its raw materials are collected from India.\r Discover the secret to a flawless and radiant complexion with White Tone Face Powder. This 50 gm compact powder is designed to enhance your skin's natural beauty, giving you a brighter, even-toned, and youthful appearance. Whether you're looking to set your makeup or simply want to freshen up your skin throughout the day, White Tone Face Powder is your go-to beauty essential.\nThis product is manufactured/packaged in India and its raw materials are collected from India.\r\n \nDiscover the secret to a flawless and radiant complexion with White Tone Face Powder. This 50 gm compact powder is designed to enhance your skin's natural beauty, giving you a brighter, even-toned, and youthful appearance. Whether you're looking to set your makeup or simply want to freshen up your skin throughout the day, White Tone Face Powder is your go-to beauty essential.",
+        "department": "Glow",
+        "category": "Serum Oil Toners",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "50 gm"
+                },
+                "thumb": "/products/img/serum-oil-toners/white-tone-face-powder-50-gm.webp",
+                "img": "/products/img/serum-oil-toners/white-tone-face-powder-50-gm.webp"
+            }
+        ]
+    }
+]

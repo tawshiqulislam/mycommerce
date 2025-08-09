@@ -1,0 +1,21 @@
+{
+    "company": {
+        "name": "Khoroch Pati",
+        "address": "12136 Kessler Parkway Walkerville, AK 92080-7969 North Malika",
+        "email": "support@support.com",
+        "phone": "+8801624988066",
+        "logo": "/img/settings/logo-6255.png",
+        "site": "https://khorochpati.com"
+    },
+    "rates": {
+        "tax": 5,
+        "shipping": 100,
+        "freeShipping": "none"
+    },
+    "social": {
+        "facebook": "https://www.facebook.com/Newegg",
+        "twitter": "https://twitter.com/Newegg",
+        "instagram": "https://www.instagram.com/newegg/",
+        "ws": "http://m.me/codesbreak"
+    }
+}

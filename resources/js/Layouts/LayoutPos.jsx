@@ -1,0 +1,17 @@
+import ApplicationLogo from "@/Components/ApplicationLogo";
+import Navbar from "@/Layouts/Navbar/Navbar";
+import { Link, usePage } from "@inertiajs/react";
+import Footer from "./Footer/Footer";
+import Cart from "./Cart";
+import NotificationToast from "@/Components/Notification/NotificationToast";
+
+export default function LayoutPos({ children }) {
+    const { auth } = usePage().props;
+    return (
+        <>
+            <NotificationToast />
+            <Navbar auth={auth} />
+            <main>{children}</main>
+        </>
+    );
+}

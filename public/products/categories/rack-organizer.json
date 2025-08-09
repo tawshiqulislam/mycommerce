@@ -1,0 +1,116 @@
+[
+    {
+        "name": "RFL English Dish Rack Mini Red",
+        "entry": "Product of Bangladesh",
+        "price": "400",
+        "old_price": "400",
+        "description": "",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/rfl-english-dish-rack-mini-red-1-pcs.webp",
+                "img": "/products/img/rack-organizer/rfl-english-dish-rack-mini-red-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "RFL English Dish Rack Red",
+        "entry": "Product of Bangladesh",
+        "price": "630",
+        "old_price": "630",
+        "description": "",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/rfl-english-dish-rack-red-1-pcs.webp",
+                "img": "/products/img/rack-organizer/rfl-english-dish-rack-red-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "RFL Smart Kitchen Rack Mini Two Color",
+        "entry": "Product of Bangladesh",
+        "price": "480",
+        "old_price": "480",
+        "description": "Model: 881345\nModel: 881345",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/rfl-smart-kitchen-rack-mini-two-color-1-pcs.webp",
+                "img": "/products/img/rack-organizer/rfl-smart-kitchen-rack-mini-two-color-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "RFL Shoe Rack 4 Step (Red)",
+        "entry": "Product of Bangladesh",
+        "price": "550",
+        "old_price": "550",
+        "description": "Model: 86288.\nModel: 86288.",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/rfl-shoe-rack-4-step-red-1-pcs.webp",
+                "img": "/products/img/rack-organizer/rfl-shoe-rack-4-step-red-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Npoly Round Cloth Hanger (Red)",
+        "entry": "Product of Bangladesh",
+        "price": "200",
+        "old_price": "200",
+        "description": "National Fittings & Accessories,LTD (NPOLY)\nNational Fittings & Accessories,LTD (NPOLY)",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-4",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/npoly-round-cloth-hanger-red-1-pcs.webp",
+                "img": "/products/img/rack-organizer/npoly-round-cloth-hanger-red-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Steel Wire (22\"x6\") Wall 6 Hook Hanger (China)",
+        "entry": "Product of Bangladesh",
+        "price": "439",
+        "old_price": "439",
+        "description": "The Steel Wire Wall Hanger (22\"x6\") features six hooks for hanging various items. Its sturdy construction is ideal for organizing coats, bags, or accessories in any room.\nThe Steel Wire Wall Hanger (22\"x6\") features six hooks for hanging various items. Its sturdy construction is ideal for organizing coats, bags, or accessories in any room.",
+        "department": "Home+",
+        "category": "Rack Organizer",
+        "ref": "260225-5",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/rack-organizer/steel-wire-22x6-wall-6-hook-hanger-china-1-pcs.webp",
+                "img": "/products/img/rack-organizer/steel-wire-22x6-wall-6-hook-hanger-china-1-pcs.webp"
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Deli HB pencil",
+        "entry": "Product of China",
+        "price": "65",
+        "old_price": "65",
+        "description": "Model: U20000\nModel: U20000",
+        "department": "Home+",
+        "category": "Pencils",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "12 pcs"
+                },
+                "thumb": "/products/img/pencils/deli-hb-pencil-12-pcs.webp",
+                "img": "/products/img/pencils/deli-hb-pencil-12-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Deli 2B Graphite Pencil (U20200)",
+        "entry": "Product of China",
+        "price": "75",
+        "old_price": "75",
+        "description": "",
+        "department": "Home+",
+        "category": "Pencils",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "12 pcs"
+                },
+                "thumb": "/products/img/pencils/deli-2b-graphite-pencil-u20200-12-pcs.webp",
+                "img": "/products/img/pencils/deli-2b-graphite-pencil-u20200-12-pcs.webp"
+            }
+        ]
+    }
+]

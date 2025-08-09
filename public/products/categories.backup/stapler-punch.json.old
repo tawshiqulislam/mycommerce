@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Deli Stapler Machine (White)",
+        "color": "each",
+        "entry": "Product of China",
+        "price": "80",
+        "old_price": "80",
+        "description": "Model: E0453\nModel: E0453",
+        "img": "/products/img/stapler-punch/deli-stapler-machine-white-1-pcs.webp"
+    },
+    {
+        "name": "Deli Staples Pin 24/6 1 box",
+        "color": "",
+        "entry": "Product of China",
+        "price": "30",
+        "old_price": "30",
+        "description": "Model: (0012N)\nModel: (0012N)",
+        "img": "/products/img/stapler-punch/deli-staples-pin-246-1-box.webp"
+    },
+    {
+        "name": "Deli Stapler Machine",
+        "color": "each",
+        "entry": "Product of China",
+        "price": "215",
+        "old_price": "215",
+        "description": "Model: 0423\nModel: 0423",
+        "img": "/products/img/stapler-punch/deli-stapler-machine-1-pcs.webp"
+    }
+]

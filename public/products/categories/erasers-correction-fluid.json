@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Deli Whiteboard Eraser (Grey)",
+        "entry": "Product of China",
+        "price": "50",
+        "old_price": "50",
+        "description": "Model: E7810\nModel: E7810",
+        "department": "Home+",
+        "category": "Erasers Correction Fluid",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/erasers-correction-fluid/deli-whiteboard-eraser-grey-1-pcs.webp",
+                "img": "/products/img/erasers-correction-fluid/deli-whiteboard-eraser-grey-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "RFL Good Luck Duster Blue",
+        "entry": "Product of Bangladesh",
+        "price": "35",
+        "old_price": "35",
+        "description": "Brand : Goodluck Stationary\r Product type: Duster\r Color: Blue\nBrand : Goodluck Stationary\r\n Product type: Duster\r\n Color: Blue",
+        "department": "Home+",
+        "category": "Erasers Correction Fluid",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/erasers-correction-fluid/rfl-good-luck-duster-blue-1-pcs.webp",
+                "img": "/products/img/erasers-correction-fluid/rfl-good-luck-duster-blue-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Deli Premium Plastic Eraser",
+        "entry": "Product of China",
+        "price": "15",
+        "old_price": "15",
+        "description": "Model: 3043\nModel: 3043",
+        "department": "Home+",
+        "category": "Erasers Correction Fluid",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/erasers-correction-fluid/deli-premium-plastic-eraser-1-pcs.webp",
+                "img": "/products/img/erasers-correction-fluid/deli-premium-plastic-eraser-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Deli Correction Pen Quick Drying 8 ml",
+        "entry": "Product of China",
+        "price": "55",
+        "old_price": "55",
+        "description": "Model: 7286\nModel: 7286",
+        "department": "Home+",
+        "category": "Erasers Correction Fluid",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/erasers-correction-fluid/deli-correction-pen-quick-drying-8-ml-1-pcs.webp",
+                "img": "/products/img/erasers-correction-fluid/deli-correction-pen-quick-drying-8-ml-1-pcs.webp"
+            }
+        ]
+    }
+]

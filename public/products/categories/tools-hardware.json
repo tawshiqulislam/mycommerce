@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Feather Paint Brush",
+        "entry": "Product of China",
+        "price": "95",
+        "old_price": "95",
+        "description": "The Feather Paint Brush is designed for smooth application of paint. Its fine bristles ensure even coverage and are ideal for detailed painting tasks.\nThe Feather Paint Brush is designed for smooth application of paint. Its fine bristles ensure even coverage and are ideal for detailed painting tasks.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/feather-paint-brush-1-pcs.webp",
+                "img": "/products/img/tools-hardware/feather-paint-brush-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Nail Cutter",
+        "entry": "Product of Bangladesh",
+        "price": "135",
+        "old_price": "135",
+        "description": "",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/nail-cutter-1-pcs.webp",
+                "img": "/products/img/tools-hardware/nail-cutter-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Mobaj Premium 7 Levers Lock",
+        "entry": "Product of Bangladesh",
+        "price": "899",
+        "old_price": "899",
+        "description": "",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/mobaj-premium-7-levers-lock-1-pcs.webp",
+                "img": "/products/img/tools-hardware/mobaj-premium-7-levers-lock-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Stainless Steel Windbreak Clip",
+        "entry": "Product of Bangladesh",
+        "price": "220",
+        "old_price": "220",
+        "description": "This Stainless Steel Windbreak Clip (20 pcs) is designed to secure items in place during windy conditions. Its strong grip ensures stability and protection for outdoor items.\nThis Stainless Steel Windbreak Clip (20 pcs) is designed to secure items in place during windy conditions. Its strong grip ensures stability and protection for outdoor items.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "20 pcs"
+                },
+                "thumb": "/products/img/tools-hardware/stainless-steel-windbreak-clip-20-pcs.webp",
+                "img": "/products/img/tools-hardware/stainless-steel-windbreak-clip-20-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Portable Digital Weight Scale",
+        "entry": "Product of Bangladesh",
+        "price": "600",
+        "old_price": "600",
+        "description": "Length: 10\"\rWidth: 7\"\rThick: 4\"\rMaximum Weight:50 KG \nLength: 10\"\r\nWidth: 7\"\r\nThick: 4\"\r\nMaximum Weight:50 KG ",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-4",
+        "variants": [
+            {
+                "color": {
+                    "name": ""
+                },
+                "thumb": "/products/img/tools-hardware/portable-digital-weight-scale.webp",
+                "img": "/products/img/tools-hardware/portable-digital-weight-scale.webp"
+            }
+        ]
+    },
+    {
+        "name": "Wall Hook",
+        "entry": "Product of Bangladesh",
+        "price": "89",
+        "old_price": "89",
+        "description": "The Wall Hook (2 pcs) provides a simple solution for hanging items like towels, hats, or bags. Its strong adhesive or screws make it easy to install on most surfaces.\nThe Wall Hook (2 pcs) provides a simple solution for hanging items like towels, hats, or bags. Its strong adhesive or screws make it easy to install on most surfaces.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-5",
+        "variants": [
+            {
+                "color": {
+                    "name": "2 pcs"
+                },
+                "thumb": "/products/img/tools-hardware/wall-hook-2-pcs.webp",
+                "img": "/products/img/tools-hardware/wall-hook-2-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Can & Bottle Opener",
+        "entry": "Product of Bangladesh",
+        "price": "326",
+        "old_price": "326",
+        "description": "This Can & Bottle Opener is designed for easy use, allowing you to open cans and bottles with minimal effort. Its compact, ergonomic design ensures a comfortable grip.\nThis Can & Bottle Opener is designed for easy use, allowing you to open cans and bottles with minimal effort. Its compact, ergonomic design ensures a comfortable grip.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-6",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/can-bottle-opener-1-pcs.webp",
+                "img": "/products/img/tools-hardware/can-bottle-opener-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Jackly Hardware Tools",
+        "entry": "Product of Bangladesh",
+        "price": "220",
+        "old_price": "220",
+        "description": "",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-7",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/jackly-hardware-tools-1-pcs.webp",
+                "img": "/products/img/tools-hardware/jackly-hardware-tools-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "HMBR Top Security Pad Lock",
+        "entry": "Product of Bangladesh",
+        "price": "549",
+        "old_price": "549",
+        "description": "Featuring a unique locking mechanism, the HMBR Lock Top provides enhanced protection against unauthorized access. Its precision-engineered internal components guarantee smooth operation and prevent any potential vulnerabilities. With this advanced design, you can trust that your belongings will remain safe and secure.\nFeaturing a unique locking mechanism, the HMBR Lock Top provides enhanced protection against unauthorized access. Its precision-engineered internal components guarantee smooth operation and prevent any potential vulnerabilities. With this advanced design, you can trust that your belongings will remain safe and secure.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-8",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/hmbr-top-security-pad-lock-1-pcs.webp",
+                "img": "/products/img/tools-hardware/hmbr-top-security-pad-lock-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Forged Steel Wrench (300 mm X 12\")",
+        "entry": "Product of China",
+        "price": "410",
+        "old_price": "410",
+        "description": "",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-9",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/forged-steel-wrench-300-mm-x-12-1-pcs.webp",
+                "img": "/products/img/tools-hardware/forged-steel-wrench-300-mm-x-12-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Stainless Steel Rice Spoon",
+        "entry": "Product of Bangladesh",
+        "price": "189",
+        "old_price": "189",
+        "description": "",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-10",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/stainless-steel-rice-spoon-1-pcs.webp",
+                "img": "/products/img/tools-hardware/stainless-steel-rice-spoon-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Quality Clipper Nail Cutter",
+        "entry": "Product of Bangladesh",
+        "price": "122",
+        "old_price": "122",
+        "description": "Nail cutter\nNail cutter",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-11",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/quality-clipper-nail-cutter-1-pcs.webp",
+                "img": "/products/img/tools-hardware/quality-clipper-nail-cutter-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Fujimoto Long Nose Pliers",
+        "entry": "Product of Bangladesh",
+        "price": "260",
+        "old_price": "260",
+        "description": "The Fujimoto Long Nose Pliers are perfect for precision work. The long, slender jaws allow access to tight spaces, ideal for bending, cutting, and gripping tasks.\nThe Fujimoto Long Nose Pliers are perfect for precision work. The long, slender jaws allow access to tight spaces, ideal for bending, cutting, and gripping tasks.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-12",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/fujimoto-long-nose-pliers-1-pcs.webp",
+                "img": "/products/img/tools-hardware/fujimoto-long-nose-pliers-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sewing Thread Box Set",
+        "entry": "Product of Bangladesh",
+        "price": "195",
+        "old_price": "195",
+        "description": "The Sewing Thread Box Set is a convenient and compact storage solution for your sewing threads.\nThe Sewing Thread Box Set is a convenient and compact storage solution for your sewing threads.",
+        "department": "Home+",
+        "category": "Tools & Hardware",
+        "ref": "260225-13",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/tools-hardware/sewing-thread-box-set-1-pcs.webp",
+                "img": "/products/img/tools-hardware/sewing-thread-box-set-1-pcs.webp"
+            }
+        ]
+    }
+]

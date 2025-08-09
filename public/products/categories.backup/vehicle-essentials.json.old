@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Alex Car Shampoo & Wax",
+        "color": "500 ml",
+        "entry": "Product of Bangladesh",
+        "price": "495",
+        "old_price": "495",
+        "description": "Alex is a unique blend of cleaning agents. It does not cause any damage to the vehicle body and its color as it is pH Balanced and salt-free. Formulated to clean, preserve, and enhance the lustrous finish of modern car paint. Suitable for all kinds of automobiles.\nAlex is a unique blend of cleaning agents. It does not cause any damage to the vehicle body and its color as it is pH Balanced and salt-free. Formulated to clean, preserve, and enhance the lustrous finish of modern car paint. Suitable for all kinds of automobiles.",
+        "img": "/products/img/vehicle-essentials/alex-car-shampoo-wax-500-ml.webp"
+    },
+    {
+        "name": "Pierre Cardin Car Fragrance (Charming)",
+        "color": "8 ml",
+        "entry": "Product of Turkey",
+        "price": "600",
+        "old_price": "600",
+        "description": "Open the cap of the bottle, after removing the stopper, close the cap again. Turn the bottle upside down and after the wooden cap absorbs the liquid, hang the bottle from the string to allow the fragrance to spread.\nOpen the cap of the bottle, after removing the stopper, close the cap again. Turn the bottle upside down and after the wooden cap absorbs the liquid, hang the bottle from the string to allow the fragrance to spread.",
+        "img": "/products/img/vehicle-essentials/pierre-cardin-car-fragrance-charming-8-ml.webp"
+    },
+    {
+        "name": "Mobil 1 0W-40",
+        "color": "4 ltr",
+        "entry": "Product of United States",
+        "price": "5,450",
+        "old_price": "5,450",
+        "description": "Mobil 1\u2122 is the world\u2019s leading synthetic motor oil brand delivering our ultimate performance and protection.Mobil 1\u2122 0W-40 European Car Formula (North America) or Protection Formula (rest of the World) Advanced Full Synthetic Motor Oil is engineered for the latest gasoline and diesel (without Diesel Particulate Filters or DPFs) engine technology delivering excellent all-round performance. It provides exceptional cleaning power,wear protection and overall performance. Mobil 1 0W-40 keeps your engine running like new in all driving conditions.\rAPI Grade: SN/CF\r\nMobil 1\u2122 is the world\u2019s leading synthetic motor oil brand delivering our ultimate performance and protection.Mobil 1\u2122 0W-40 European Car Formula (North America) or Protection Formula (rest of the World) Advanced Full Synthetic Motor Oil is engineered for the latest gasoline and diesel (without Diesel Particulate Filters or DPFs) engine technology delivering excellent all-round performance. It provides exceptional cleaning power,wear protection and overall performance. Mobil 1 0W-40 keeps your engine running like new in all driving conditions.\r\nAPI Grade: SN/CF\r\n",
+        "img": "/products/img/vehicle-essentials/mobil-1-0w-40-4-ltr.webp"
+    },
+    {
+        "name": "Mobil 1  5W-50",
+        "color": "4  ltr",
+        "entry": "Product of United States",
+        "price": "5,450",
+        "old_price": "5,450",
+        "description": "Mobil 1\u2122 is the world\u2019s leading synthetic motor oil brand delivering our ultimate performance and protection. Mobil 1 5W-50 Advanced Full Synthetic Motor Oil is our tried and trusted formulation delivering great all-round performance. Mobil 1 5W-50 keeps your engine performing like new. This race-proven technology is suited for extreme driving conditions and motorsport applications. Racing or normal driving, Mobil 1 5W-50 (Rally Formula) helps to provide heavy-duty engine performance and protection for an outstanding driving experience.\rAPI Grade: SN/CF\nMobil 1\u2122 is the world\u2019s leading synthetic motor oil brand delivering our ultimate performance and protection. Mobil 1 5W-50 Advanced Full Synthetic Motor Oil is our tried and trusted formulation delivering great all-round performance. Mobil 1 5W-50 keeps your engine performing like new. This race-proven technology is suited for extreme driving conditions and motorsport applications. Racing or normal driving, Mobil 1 5W-50 (Rally Formula) helps to provide heavy-duty engine performance and protection for an outstanding driving experience.\r\nAPI Grade: SN/CF",
+        "img": "/products/img/vehicle-essentials/mobil-1-5w-50-4-ltr.webp"
+    },
+    {
+        "name": "Raincoat (Black)",
+        "color": "each",
+        "entry": "Product of Bangladesh",
+        "price": "669",
+        "old_price": "669",
+        "description": "Long - 54\"\rLength - 46\"\rColor - Black\rMaterial - Synthetic\rQuality - Waterproof\nLong - 54\"\r\nLength - 46\"\r\nColor - Black\r\nMaterial - Synthetic\r\nQuality - Waterproof",
+        "img": "/products/img/vehicle-essentials/raincoat-black-1-pcs.webp"
+    },
+    {
+        "name": "Forged Steel Wrench (300 mm X 12\")",
+        "color": "each",
+        "entry": "Product of China",
+        "price": "410",
+        "old_price": "410",
+        "description": "",
+        "img": "/products/img/vehicle-essentials/forged-steel-wrench-300-mm-x-12-1-pcs.webp"
+    },
+    {
+        "name": "Alex Microfiber Car & Home Duster",
+        "color": "each",
+        "entry": "Product of Bangladesh",
+        "price": "170",
+        "old_price": "170",
+        "description": "Used for All-purpose Dusting and wiping.\r240 GSM Cloth which has a 5X absorbing capacity and removes bacteria from smooth surfaces. It is also environmentally friendly, Washable, and reusable.\nUsed for All-purpose Dusting and wiping.\r\n240 GSM Cloth which has a 5X absorbing capacity and removes bacteria from smooth surfaces. It is also environmentally friendly, Washable, and reusable.",
+        "img": "/products/img/vehicle-essentials/alex-microfiber-car-home-duster-1-pcs.webp"
+    }
+]

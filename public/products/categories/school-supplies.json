@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Deli Scientific Calculator",
+        "entry": "Product of China",
+        "price": "600",
+        "old_price": "600",
+        "description": "Model: 1710\nModel: 1710",
+        "department": "Home+",
+        "category": "School Supplies",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/school-supplies/deli-scientific-calculator-1-pcs.webp",
+                "img": "/products/img/school-supplies/deli-scientific-calculator-1-pcs.webp"
+            }
+        ]
+    }
+]

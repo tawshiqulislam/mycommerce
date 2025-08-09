@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Deli Desktop Calculator 12 Digit (Black)",
+        "entry": "Product of China",
+        "price": "475",
+        "old_price": "475",
+        "description": "Model: E39231\nModel: E39231",
+        "department": "Home+",
+        "category": "Calculators",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/calculators/deli-desktop-calculator-12-digit-black-1-pcs.webp",
+                "img": "/products/img/calculators/deli-desktop-calculator-12-digit-black-1-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Deli Scientific Calculator",
+        "entry": "Product of China",
+        "price": "600",
+        "old_price": "600",
+        "description": "Model: 1710\nModel: 1710",
+        "department": "Home+",
+        "category": "Calculators",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "each"
+                },
+                "thumb": "/products/img/calculators/deli-scientific-calculator-1-pcs.webp",
+                "img": "/products/img/calculators/deli-scientific-calculator-1-pcs.webp"
+            }
+        ]
+    }
+]

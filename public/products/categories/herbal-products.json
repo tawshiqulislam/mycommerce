@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Sagudana",
+        "entry": "Product of Bangladesh",
+        "price": "45",
+        "old_price": "45",
+        "description": "Sabuda, also known as tapioca pearl or sago, is a starch extracted from the roots of tapioca and processed into pearl-like spears. It contains a high amount of carbohydrates, making it a fast energy booster. Due to its neutral flavor, it can also add texture to breads and soups without affecting the taste.\nSabuda, also known as tapioca pearl or sago, is a starch extracted from the roots of tapioca and processed into pearl-like spears. It contains a high amount of carbohydrates, making it a fast energy booster. Due to its neutral flavor, it can also add texture to breads and soups without affecting the taste.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-0",
+        "variants": [
+            {
+                "color": {
+                    "name": "200 gm"
+                },
+                "thumb": "/products/img/herbal-products/sagudana-200-gm.webp",
+                "img": "/products/img/herbal-products/sagudana-200-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sajeeb Pure Psyllium Husk (Isubgul Vushi)",
+        "entry": "Product of Bangladesh",
+        "price": "200",
+        "old_price": "200",
+        "description": "Sajeeb Pure Psyllium Husk is a natural source of fiber, ideal for maintaining digestive health. Add it to water, smoothies, or meals to improve bowel health and regulate digestion. An easy and effective way to include fiber in your diet. A trusted product for overall wellness.\nSajeeb Pure Psyllium Husk is a natural source of fiber, ideal for maintaining digestive health. Add it to water, smoothies, or meals to improve bowel health and regulate digestion. An easy and effective way to include fiber in your diet. A trusted product for overall wellness.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-1",
+        "variants": [
+            {
+                "color": {
+                    "name": "75 gm"
+                },
+                "thumb": "/products/img/herbal-products/sajeeb-pure-psyllium-husk-isubgul-vushi-75-gm.webp",
+                "img": "/products/img/herbal-products/sajeeb-pure-psyllium-husk-isubgul-vushi-75-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Farmer's Gold Psyllium Husk (Isubgul Vushi)",
+        "entry": "Product of Bangladesh",
+        "price": "280",
+        "old_price": "280",
+        "description": "This product is manufactured/packaged in Bangladesh and its raw materials are collected from India.\r Farmer's Gold Psyllium Husk, known as \"Isubgul Vushi\" in some regions, is a natural dietary fiber supplement derived from the seeds of the Plantago ovata plant. This 100 gm package of psyllium husk is a premium source of soluble fiber, offering a range of potential health benefits. It is a versatile and convenient way to increase your daily fiber intake and support digestive health.\nThis product is manufactured/packaged in Bangladesh and its raw materials are collected from India.\r\n \nFarmer's Gold Psyllium Husk, known as \"Isubgul Vushi\" in some regions, is a natural dietary fiber supplement derived from the seeds of the Plantago ovata plant. This 100 gm package of psyllium husk is a premium source of soluble fiber, offering a range of potential health benefits. It is a versatile and convenient way to increase your daily fiber intake and support digestive health.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-2",
+        "variants": [
+            {
+                "color": {
+                    "name": "100 gm"
+                },
+                "thumb": "/products/img/herbal-products/farmers-gold-psyllium-husk-isubgul-vushi-100-gm.webp",
+                "img": "/products/img/herbal-products/farmers-gold-psyllium-husk-isubgul-vushi-100-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ekata Psyllium Husk (Isubgul Vushi)",
+        "entry": "Product of Bangladesh",
+        "price": "240",
+        "old_price": "240",
+        "description": "Ekata Psyllium Husk is a natural dietary fiber supplement that supports digestion and gut health. It’s an excellent addition to drinks, smoothies, or meals for promoting bowel regularity and weight management. Known for its cleansing properties, it’s a must-have for maintaining overall digestive wellness.\nEkata Psyllium Husk is a natural dietary fiber supplement that supports digestion and gut health. It’s an excellent addition to drinks, smoothies, or meals for promoting bowel regularity and weight management. Known for its cleansing properties, it’s a must-have for maintaining overall digestive wellness.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-3",
+        "variants": [
+            {
+                "color": {
+                    "name": "100 gm"
+                },
+                "thumb": "/products/img/herbal-products/ekata-psyllium-husk-isubgul-vushi-100-gm.webp",
+                "img": "/products/img/herbal-products/ekata-psyllium-husk-isubgul-vushi-100-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Farmer's Gold Rose Petal Powder",
+        "entry": "Product of Bangladesh",
+        "price": "150",
+        "old_price": "150",
+        "description": "Dried rose petal powder has a beneficial role in relieving diarrhea as well as constipation. The use of dried rose petals in making herbal teas is nothing new. Using one or two dried petals or petal powder with different spices, it is possible to prevent tooth cavity or tooth decay with acidity problem.\nDried rose petal powder has a beneficial role in relieving diarrhea as well as constipation. The use of dried rose petals in making herbal teas is nothing new. Using one or two dried petals or petal powder with different spices, it is possible to prevent tooth cavity or tooth decay with acidity problem.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-4",
+        "variants": [
+            {
+                "color": {
+                    "name": "25 gm"
+                },
+                "thumb": "/products/img/herbal-products/farmers-gold-rose-petal-powder-25-gm.webp",
+                "img": "/products/img/herbal-products/farmers-gold-rose-petal-powder-25-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Dabur Chyawanprash Awaleha",
+        "entry": "Product of Bangladesh",
+        "price": "600",
+        "old_price": "600",
+        "description": "Dabur Chyawanprash, derived from 2500 years old ayurvedic formula is a super supplement prepared with 48 natural herbs that helps to make our immune system stronger, thereby protecting the body from everyday infections like cough & cold etc. caused by bacteria, viruses, dust and weather change. Each of the herbs have their individual properties / benefits, i.e. Amla – Improves mental function, anti-aging properties, stress reduction, Ashwagandha – tonic for brain & nervous system, Joshthimodhu – anti-oxidant etc. Simply put, immunity is the body’s most reliable defense against diseases and it can be made stronger. Dabur Chyawanprash has ingredients that helps strengthen the immune system of all age of the family. • Totally chemical-free, natural and safe • Combination of herbs and plant extracts in a base of Amla fruit pulp • Refined by Dabur to provide traditional goodness with best quality  Usage:  Dabur Chyawanprash has a tangy sweet-sour taste and the consistency of jam. It can be taken directly or with milk and as bread spread.  Having Chyawanprash followed by a glass of warm milk in winter and cold milk in summer will provide the best result. Dose:  • ½ Teaspoon daily for Children • 1 – 2 Teaspoonful daily for Adults.\nDabur Chyawanprash, derived from 2500 years old ayurvedic formula is a super supplement prepared with 48 natural herbs that helps to make our immune system stronger, thereby protecting the body from everyday infections like cough & cold etc. caused by bacteria, viruses, dust and weather change. Each of the herbs have their individual properties / benefits, i.e. Amla – Improves mental function, anti-aging properties, stress reduction, Ashwagandha – tonic for brain & nervous system, Joshthimodhu – anti-oxidant etc. Simply put, immunity is the body’s most reliable defense against diseases and it can be made stronger. Dabur Chyawanprash has ingredients that helps strengthen the immune system of all age of the family. • Totally chemical-free, natural and safe • Combination of herbs and plant extracts in a base of Amla fruit pulp • Refined by Dabur to provide traditional goodness with best quality  Usage:  Dabur Chyawanprash has a tangy sweet-sour taste and the consistency of jam. It can be taken directly or with milk and as bread spread.  Having Chyawanprash followed by a glass of warm milk in winter and cold milk in summer will provide the best result. Dose:  • ½ Teaspoon daily for Children • 1 – 2 Teaspoonful daily for Adults.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-5",
+        "variants": [
+            {
+                "color": {
+                    "name": "500 gm"
+                },
+                "thumb": "/products/img/herbal-products/dabur-chyawanprash-awaleha-500-gm.webp",
+                "img": "/products/img/herbal-products/dabur-chyawanprash-awaleha-500-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Psyllium Husk (Isubgul Vushi)",
+        "entry": "Product of Bangladesh",
+        "price": "199",
+        "old_price": "199",
+        "description": "A natural dietary fiber that supports digestive health. It helps with constipation, promotes regularity, and can aid in weight management. Ideal for adding to water, smoothies, or meals for an extra fiber boost. A healthy addition to your daily diet.\nA natural dietary fiber that supports digestive health. It helps with constipation, promotes regularity, and can aid in weight management. Ideal for adding to water, smoothies, or meals for an extra fiber boost. A healthy addition to your daily diet.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-6",
+        "variants": [
+            {
+                "color": {
+                    "name": "100 gm"
+                },
+                "thumb": "/products/img/herbal-products/psyllium-husk-isubgul-vushi-100-gm.webp",
+                "img": "/products/img/herbal-products/psyllium-husk-isubgul-vushi-100-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Hajmola Imli 100 Tablets",
+        "entry": "Product of Bangladesh",
+        "price": "100",
+        "old_price": "100",
+        "description": "Pop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana. Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.\nPop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana. Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-7",
+        "variants": [
+            {
+                "color": {
+                    "name": "74 gm"
+                },
+                "thumb": "/products/img/herbal-products/hajmola-imli-100-tablets-74-gm.webp",
+                "img": "/products/img/herbal-products/hajmola-imli-100-tablets-74-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Nutri+ Ener-G Fortified Tasty Saline Orange Flavored 9 gm",
+        "entry": "Product of Bangladesh",
+        "price": "140",
+        "old_price": "140",
+        "description": "Ener-G is the first fortified tasty saline in Bangladesh that contains 10% RDI in every serving. This fortified tasty saline comes in a 9 gm pack.perfect for those who want a quick and refreshing drink.This powdered drink mix is a great source of hydration and electrolytes, making it perfect for athletes and those who lead an active lifestyle. The orange flavor adds a delicious twist to the classic saline taste, making it a tasty and healthy alternative to sugary drinks.\nEner-G is the first fortified tasty saline in Bangladesh that contains 10% RDI in every serving. This fortified tasty saline comes in a 9 gm pack.perfect for those who want a quick and refreshing drink.This powdered drink mix is a great source of hydration and electrolytes, making it perfect for athletes and those who lead an active lifestyle. The orange flavor adds a delicious twist to the classic saline taste, making it a tasty and healthy alternative to sugary drinks.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-8",
+        "variants": [
+            {
+                "color": {
+                    "name": "20 pcs"
+                },
+                "thumb": "/products/img/herbal-products/nutri-ener-g-fortified-tasty-saline-orange-flavored-9-gm-20-pcs.webp",
+                "img": "/products/img/herbal-products/nutri-ener-g-fortified-tasty-saline-orange-flavored-9-gm-20-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Nutri+ Ener-G Fortified Tasty Saline Lemon Flavored",
+        "entry": "Product of Bangladesh",
+        "price": "140",
+        "old_price": "140",
+        "description": "1 Box = 20 pcs  Ener-G is the first fortified tasty saline in Bangladesh that contains 10% RDI in every serving. This fortified tasty saline comes in a 9 gm pack. Ingredients: Sucrose, Dextrose anhydrous, Citric Acid anhydrous (E330), Tri Sodium Citrate dehydrated (E331), Sodium Chloride, Potassium Chloride, Aspartame (E951), Tri Calcium Phosphate (E341), Clouding Agent and Permitted Food Grade Lemon Flavor.\n1 Box = 20 pcs  Ener-G is the first fortified tasty saline in Bangladesh that contains 10% RDI in every serving. This fortified tasty saline comes in a 9 gm pack. Ingredients: Sucrose, Dextrose anhydrous, Citric Acid anhydrous (E330), Tri Sodium Citrate dehydrated (E331), Sodium Chloride, Potassium Chloride, Aspartame (E951), Tri Calcium Phosphate (E341), Clouding Agent and Permitted Food Grade Lemon Flavor.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-9",
+        "variants": [
+            {
+                "color": {
+                    "name": "20 pcs"
+                },
+                "thumb": "/products/img/herbal-products/nutri-ener-g-fortified-tasty-saline-lemon-flavored-20-pcs.webp",
+                "img": "/products/img/herbal-products/nutri-ener-g-fortified-tasty-saline-lemon-flavored-20-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Hajmola Borhani 100 Tablets",
+        "entry": "Product of Bangladesh",
+        "price": "89",
+        "old_price": "100",
+        "description": "Pop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana. Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.\nPop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana. Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-10",
+        "variants": [
+            {
+                "color": {
+                    "name": "74 gm"
+                },
+                "thumb": "/products/img/herbal-products/hajmola-borhani-100-tablets-74-gm.webp",
+                "img": "/products/img/herbal-products/hajmola-borhani-100-tablets-74-gm.webp"
+            }
+        ]
+    },
+    {
+        "name": "Eno Orange Flavor",
+        "entry": "Product of India",
+        "price": "75",
+        "old_price": "75",
+        "description": "Eno Orange Flavor provides quick relief from acidity, with a refreshing citrus taste. The 5-piece pack is convenient for on-the-go relief, making it an essential for anyone who suffers from acidity. Easy to mix and digest, it’s a quick solution for bloating and discomfort. Perfect for quick, effective digestive support.\nEno Orange Flavor provides quick relief from acidity, with a refreshing citrus taste. The 5-piece pack is convenient for on-the-go relief, making it an essential for anyone who suffers from acidity. Easy to mix and digest, it’s a quick solution for bloating and discomfort. Perfect for quick, effective digestive support.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-11",
+        "variants": [
+            {
+                "color": {
+                    "name": "5 pcs"
+                },
+                "thumb": "/products/img/herbal-products/eno-orange-flavor-5-pcs.webp",
+                "img": "/products/img/herbal-products/eno-orange-flavor-5-pcs.webp"
+            }
+        ]
+    },
+    {
+        "name": "Hajmola Regular 100 Tablets",
+        "entry": "Product of Bangladesh",
+        "price": "90",
+        "old_price": "90",
+        "description": "Pop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana.    Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.\nPop a Dabur Hajmola and enjoy the chatpata taste as it stimulates your digestive power, especially when taken regularly, be it after meals, office meetings, or simply during leisure times. Not only does it get the digestive juices working better, it's also a useful laxative for children and adults. This natural stimulant is prepared by ayurvedic mix of traditional culinary herbs, spices and edible salts that helps for digestion and gives quick relief from flatulence. Why opt for something unhealthy when Hajmola gives both chatpata taste and amazing benefits? It is available in five variants namely Regular, Imli, Pudina, Borhani and Anardana.    Why Hajmola?  • Chatpata tablets, fun to have at any time of the day  • Improves digestion for kids and adults  • Useful in cases of indigestion, loss of appetite and flatulence  • Great way to enjoy while staying healthy  • Chatpata taste is good for a change of taste in mouth.",
+        "department": "Grocery",
+        "category": "Herbal Products",
+        "ref": "260225-12",
+        "variants": [
+            {
+                "color": {
+                    "name": "74 gm"
+                },
+                "thumb": "/products/img/herbal-products/hajmola-regular-100-tablets-74-gm.webp",
+                "img": "/products/img/herbal-products/hajmola-regular-100-tablets-74-gm.webp"
+            }
+        ]
+    }
+]
