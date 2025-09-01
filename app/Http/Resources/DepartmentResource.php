@@ -18,7 +18,7 @@ class DepartmentResource extends JsonResource
             'id' => $this->id,
             'name' => $this->name,
             'slug' => $this->slug,
-            'img' => $this->img,
+            'img' => $this->img ? asset($this->img) : null,
             'entry' => $this->entry,
             'active' => $this->active,
             'in_home' => $this->in_home,
